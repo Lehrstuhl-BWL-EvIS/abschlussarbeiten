@@ -21,15 +21,17 @@
 >
 > Forschungsmethodische Fundierung: Literatur-gestützt (Wissenschaftliche Literatur und Praktikerliteratur), ggf. Code-Beispiele
 >
-> Besondere Herausforderung:
+> Besondere Herausforderung: Transdisplinäres Thema erfordert Betrachtung und Untersuchung aus verschiedenen Perspektiven
+> unter Einbezug mehrerer wissenschaftlicher Forschungsgebiete (u.A. aus Software-Engineering, Philosophie, Ökonomie) 
 > 
 > Dozent: Prof. Dr. Strecker
 
-Zum Einlesen:
-- https://en.wikipedia.org/wiki/Software_evolution
-- https://en.wikipedia.org/wiki/Programming_complexity
-- https://en.wikipedia.org/wiki/No_Silver_Bullet
-- https://en.wikipedia.org/wiki/Essential_complexity
-- https://en.wikipedia.org/wiki/Don_Norman: Living with complexity: https://mitpress.mit.edu/9780262528948/living-with-complexity
-- https://porter360.medium.com/complexity-is-good-it-is-confusion-that-is-bad-7e00a8ade98f
+> [!Tip]
+> Zum Einlesen:
+> - https://en.wikipedia.org/wiki/Software_evolution
+> - https://en.wikipedia.org/wiki/Programming_complexity
+> - https://en.wikipedia.org/wiki/No_Silver_Bullet
+> - https://en.wikipedia.org/wiki/Essential_complexity
+> - https://en.wikipedia.org/wiki/Don_Norman: Living with complexity: https://mitpress.mit.edu/9780262528948/living-with-complexity
+> - https://porter360.medium.com/complexity-is-good-it-is-confusion-that-is-bad-7e00a8ade98f
 
