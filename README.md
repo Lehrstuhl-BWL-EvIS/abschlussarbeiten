@@ -12,7 +12,7 @@
 
 ## Weitere Themenvorschläge
 
-### Themenvorschlag: Software Evolution and the discussion on accidental complexity vs. essential complexity (Prof. Strecker)
+#### Themenvorschlag: Software Evolution and the discussion on accidental complexity vs. essential complexity (Prof. Strecker)
 
 > [!Note]  
 > Studienniveau: M.Sc. 
