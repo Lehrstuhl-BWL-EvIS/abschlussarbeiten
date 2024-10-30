@@ -49,8 +49,7 @@ Die Ergebnisse dieser Studie könnten dazu beitragen, die Entwicklung und Verbes
 
 > [!Tip]
 > Zum Einlesen:
-> - https://en.wikipedia.org/wiki/No_Silver_Bullet
-> - https://en.wikipedia.org/wiki/Lehman%27s_laws_of_software_evolution
+> - https://github.com/Lehrstuhl-BWL-EvIS/abschlussarbeit-themen/blob/main/lis.md
 
 
 
