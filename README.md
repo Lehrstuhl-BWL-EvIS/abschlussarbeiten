@@ -1,6 +1,6 @@
 # Themenvorschläge für Abschlussarbeiten am Lehrstuhl EvIS, Prof. Strecker, FernUniversität in Hagen
 
-## Forschungsprojekt SAM
+## Forschungsprojekt SAM - Software Architecture Modeling
 
 ### Konzeptualisierung von Softwarearchitektur: Eine systematische Literaturanalyse
 
@@ -32,7 +32,29 @@ Die Ergebnisse dieser Studie könnten dazu beitragen, die Entwicklung und Verbes
 
 ## Weitere Themenvorschläge
 
-#### Themenvorschlag: Software Evolution and the discussion on accidental complexity vs. essential complexity (Prof. Strecker)
+### Themenvorschlag: Konzeption, Entwurf und Entwicklung eines Lehrstuhlinformationssystems (Prof. Strecker)
+
+> [!Note]  
+> Studienniveau: M.Sc. 
+>
+> Sprache: Deutsch (alternativ: Englisch)
+>
+> Forschungsmethodische Fundierung: Konstruktionsorientierter Forschungsansatz, Forschung durch Entwicklung
+>
+> Besonders interessant und reizvoll, weil: Software-Entwicklung mit topaktuellem Technologie-Stack, prospektive Anwender am Lehrstuhl an Entwicklung beteiligt, Einsatz am Lehrstuhl angestrebt, Weiterentwicklung durch CI/CD und DevSecOps möglich   
+> 
+> Dozent: Prof. Dr. Strecker
+>
+> Status: Aktuell, Interessenten per E-Mail an [Prof. Strecker](mailto:stefan.strecker@fernuni-hagen.de) wenden
+
+> [!Tip]
+> Zum Einlesen:
+> - https://en.wikipedia.org/wiki/No_Silver_Bullet
+> - https://en.wikipedia.org/wiki/Lehman%27s_laws_of_software_evolution
+
+
+
+### Themenvorschlag: Software evolution and the discussion on accidental complexity vs. essential complexity (Prof. Strecker)
 
 > [!Note]  
 > Studienniveau: M.Sc. 
@@ -42,9 +64,11 @@ Die Ergebnisse dieser Studie könnten dazu beitragen, die Entwicklung und Verbes
 > Forschungsmethodische Fundierung: Literatur-gestützt (Wissenschaftliche Literatur und Praktikerliteratur), ggf. Code-Beispiele
 >
 > Besondere Herausforderung: Transdisplinäres Thema erfordert Betrachtung und Untersuchung aus verschiedenen Perspektiven
-> unter Einbezug mehrerer wissenschaftlicher Forschungsgebiete (u.A. aus Software-Engineering, Philosophie, Ökonomie) 
+> unter Einbezug mehrerer wissenschaftlicher Forschungsgebiete (u.A. aus Software-Engineering, Linguistik, Philosophie, Ökonomie) 
 > 
 > Dozent: Prof. Dr. Strecker
+>
+> Status: Aktuell, Interessenten per E-Mail an [Prof. Strecker](mailto:stefan.strecker@fernuni-hagen.de) wenden
 
 > [!Tip]
 > Zum Einlesen:
