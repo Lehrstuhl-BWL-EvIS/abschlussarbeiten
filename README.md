@@ -35,7 +35,8 @@ Die Ergebnisse dieser Studie könnten dazu beitragen, die Entwicklung und Verbes
 >
 > Forschungsmethodische Fundierung: Konstruktionsorientierter Forschungsansatz, Forschung durch Entwicklung
 >
-> Aufgabenstellung (Kurzfassung): Begriffliche, theoretische und methodische Grundlagen zu UI/UX-Design für Web-Applikationen,
+> Aufgabenstellung (Kurzfassung): Begriffliche, theoretische und methodische Grundlagen zu UI/UX-Design für Web-Applikationen
+> mit Schwerpunkt auf Entwurf von UI-Komponenten (ggf. auch zu "[Web Components](https://github.com/webcomponents)"),
 > Implementierungskonzepte für Components für Phoenix Liveview (Stateless / Stateful Components),
 > Implementierungskonzepte der Surface-UI-Bibliothek für Phoenix Liveview,
 > prototypische vergleichende Implementierung elementarer UI-Komponenten (u.a. Button, Dropdown) mit Phoenix Liveview und Surface UI
