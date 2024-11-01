@@ -26,6 +26,36 @@ Die Ergebnisse dieser Studie könnten dazu beitragen, die Entwicklung und Verbes
 
 ## Forschungsprojekt SPORT
 
+### UI Components for Web Applications: Comparing Alternative Implementation Approaches for Phoenix Liveview (Prof. Strecker)
+
+> [!Note]  
+> Studienniveau: M.Sc. 
+>
+> Sprache: English oder Deutsch 
+>
+> Forschungsmethodische Fundierung: Konstruktionsorientierter Forschungsansatz, Forschung durch Entwicklung
+>
+> Aufgabenstellung (Kurzfassung): Begriffliche, theoretische und methodische Grundlagen zu UI/UX-Design für Web-Applikationen,
+> Implementierungskonzepte für Components für Phoenix Liveview (Stateless / Stateful Components),
+> Implementierungskonzepte der Surface-UI-Bibliothek für Phoenix Liveview,
+> prototypische vergleichende Implementierung elementarer UI-Komponenten (u.a. Button, Dropdown) mit Phoenix Liveview und Surface UI
+> kriteriengeleitete diskursive Evaluation beider Ansätze
+>
+> Besonders interessant und reizvoll, weil: UI/UX-Design mit topaktuellem Technologie-Stack,
+> theoretische Reflexion mit Prototypentwicklung verbinden    
+> 
+> Dozent: Prof. Dr. Strecker
+>
+> Status: Aktuell, Interessenten per E-Mail an [Prof. Strecker](mailto:stefan.strecker@fernuni-hagen.de) wenden
+
+> [!Tip]
+> Zum Einlesen:
+> - https://hexdocs.pm/phoenix_live_view/1.0.0-rc.7/
+> - https://surface-site.gigalixirapp.com
+> - https://www.phoenixframework.org
+
+
+
 ## Forschungsprojekt IMP
 
 ## Forschungsprojekt TOOL
