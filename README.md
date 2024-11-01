@@ -42,7 +42,8 @@ Die Ergebnisse dieser Studie könnten dazu beitragen, die Entwicklung und Verbes
 > kriteriengeleitete diskursive Evaluation beider Ansätze
 >
 > Besonders interessant und reizvoll, weil: UI/UX-Design mit topaktuellem Technologie-Stack,
-> theoretische Reflexion mit Prototypentwicklung verbinden    
+> theoretische Reflexion mit Prototypentwicklung verbinden,
+> anspruchsvolle Herausforderung    
 > 
 > Dozent: Prof. Dr. Strecker
 >
