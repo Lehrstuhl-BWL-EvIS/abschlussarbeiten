@@ -1,10 +1,15 @@
 # Themenvorschläge für Abschlussarbeiten am Lehrstuhl EvIS, Prof. Strecker, FernUniversität in Hagen
 
-- [Forschungsprojekt SAM – Software Architecture Modeling](#forschungsprojekt-sam--software-architecture-modeling)
-- [Forschungsprojekt ELMO – E-Learning for Conceptual Modeling](#forschungsprojekt-elmo--e-learning-for-conceptual-modeling)
-- [Forschungsprojekt SPORT – Research & development of a web application for managing sports clubs](#forschungsprojekt-sport--research--development-of-a-web-application-for-managing-sports-clubs)
-- [Forschungsprojekt IMP – Individual Modeling Processes: Understanding modeling difficulties and designing tailored support for modelers](#forschungsprojekt-imp--individual-modeling-processes-understanding-modeling-difficulties-and-designing-tailored-support-for-modelers)
-- [Forschungsprojekt TOOL – A web browser-based modeling tool and research observatory](#forschungsprojekt-tool--a-web-browser-based-modeling-tool-and-research-observatory)
+- [Forschungsprojekt SAM](#forschungsprojekt-sam--software-architecture-modeling)
+	- Software Architecture Modeling
+- [Forschungsprojekt ELMO](#forschungsprojekt-elmo--e-learning-for-conceptual-modeling)
+	- E-Learning for Conceptual Modeling
+- [Forschungsprojekt SPORT](#forschungsprojekt-sport--research--development-of-a-web-application-for-managing-sports-clubs)
+	- Research & development of a web application for managing sports clubs
+- [Forschungsprojekt IMP](#forschungsprojekt-imp--individual-modeling-processes-understanding-modeling-difficulties-and-designing-tailored-support-for-modelers)
+	- Individual Modeling Processes: Understanding modeling difficulties and designing tailored support for modelers
+- [Forschungsprojekt TOOL](#forschungsprojekt-tool--a-web-browser-based-modeling-tool-and-research-observatory)
+	- A web browser-based modeling tool and research observatory
 - [Weitere Themenvorschläge](#weitere-themenvorschl%C3%A4ge)
 
 
