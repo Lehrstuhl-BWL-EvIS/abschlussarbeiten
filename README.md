@@ -1,6 +1,12 @@
 # Themenvorschläge für Abschlussarbeiten am Lehrstuhl EvIS, Prof. Strecker, FernUniversität in Hagen
 
-## Forschungsprojekt SAM - Software Architecture Modeling
+
+
+&nbsp;
+
+## Forschungsprojekt SAM – Software Architecture Modeling
+
+Weitere Informationen zum Forschungsprojekt: https://www.fernuni-hagen.de/evis/research/projects/sam.shtml
 
 ### Konzeptualisierung von Softwarearchitektur: Eine systematische Literaturanalyse
 
@@ -22,9 +28,22 @@ Die Arbeit wird Interviews und Umfragen mit praktizierenden Softwarearchitekten 
 Ziel ist es, ein klares Bild der Kriterien zu entwickeln, die Softwarearchitekten bei der Auswahl und Nutzung von Modellierungsmethoden und -sprachen anwenden.
 Die Ergebnisse dieser Studie könnten dazu beitragen, die Entwicklung und Verbesserung von Modellierungswerkzeugen zu leiten, die besser auf die spezifischen Anforderungen der Anwender abgestimmt sind.
 
-## Forschungsprojekt ELMO
 
-## Forschungsprojekt SPORT
+&nbsp;
+
+## Forschungsprojekt ELMO – E-Learning for Conceptual Modeling
+
+Weitere Informationen zum Forschungsprojekt: https://www.fernuni-hagen.de/evis/research/projects/elmo.shtml
+
+> [!IMPORTANT]
+> Themenvorschläge folgen.
+
+
+&nbsp;
+
+## Forschungsprojekt SPORT – Research & development of a web application for managing sports clubs
+
+Weitere Informationen zum Forschungsprojekt: https://www.fernuni-hagen.de/evis/research/projects/sport.shtml
 
 ### UI Components for Web Applications: Comparing Alternative Implementation Approaches for Phoenix Liveview (Prof. Strecker)
 
@@ -57,10 +76,27 @@ Die Ergebnisse dieser Studie könnten dazu beitragen, die Entwicklung und Verbes
 > - https://www.phoenixframework.org
 
 
+&nbsp;
 
-## Forschungsprojekt IMP
+## Forschungsprojekt IMP – Individual Modeling Processes: Understanding modeling difficulties and designing tailored support for modelers
 
-## Forschungsprojekt TOOL
+Weitere Informationen zum Forschungsprojekt: https://www.fernuni-hagen.de/evis/research/projects/imp.shtml
+
+> [!IMPORTANT]
+> Themenvorschläge folgen.
+
+
+&nbsp;
+
+## Forschungsprojekt TOOL – A web browser-based modeling tool and research observatory
+
+Weitere Informationen zum Forschungsprojekt: https://www.fernuni-hagen.de/evis/research/projects/TOOL.shtml
+
+> [!IMPORTANT]
+> Themenvorschläge folgen.
+
+
+&nbsp;
 
 ## Weitere Themenvorschläge
 
@@ -86,8 +122,6 @@ Die Ergebnisse dieser Studie könnten dazu beitragen, die Entwicklung und Verbes
 > Zum Einlesen:
 > - https://github.com/Lehrstuhl-BWL-EvIS/abschlussarbeit-themen/blob/main/lis.md
 
-
-
 ### Themenvorschlag: Software evolution and the discussion on accidental complexity vs. essential complexity (Prof. Strecker)
 
 > [!Note]  
@@ -112,4 +146,3 @@ Die Ergebnisse dieser Studie könnten dazu beitragen, die Entwicklung und Verbes
 > - https://en.wikipedia.org/wiki/Programming_complexity
 > - https://en.wikipedia.org/wiki/Don_Norman: Living with complexity: https://mitpress.mit.edu/9780262528948/living-with-complexity
 > - https://porter360.medium.com/complexity-is-good-it-is-confusion-that-is-bad-7e00a8ade98f
-
