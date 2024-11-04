@@ -73,7 +73,10 @@ Die Ergebnisse dieser Studie könnten dazu beitragen, die Entwicklung und Verbes
 >
 > Forschungsmethodische Fundierung: Konstruktionsorientierter Forschungsansatz, Forschung durch Entwicklung
 >
-> Besonders interessant und reizvoll, weil: Software-Entwicklung mit topaktuellem Technologie-Stack, prospektive Anwender am Lehrstuhl an Entwicklung beteiligt, Einsatz am Lehrstuhl angestrebt, Weiterentwicklung durch CI/CD und DevSecOps möglich   
+> Besonders interessant und reizvoll, weil: Full-Stack-Software-Entwicklung mit topaktuellem Technologie-Stack,
+> Erweiterung der eigenen SE-Kompotenzen,
+> prospektive Anwender am Lehrstuhl an Entwicklung beteiligt,
+> Einsatz am Lehrstuhl angestrebt   
 > 
 > Dozent: Prof. Dr. Strecker
 >
