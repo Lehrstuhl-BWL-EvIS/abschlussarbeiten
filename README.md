@@ -121,7 +121,7 @@ Weitere Informationen zum Forschungsprojekt: https://www.fernuni-hagen.de/evis/r
 > Forschungsmethodische Fundierung: Konstruktionsorientierter Forschungsansatz, Forschung durch Entwicklung
 >
 > Besonders interessant und reizvoll, weil: Full-Stack-Software-Entwicklung mit topaktuellem Technologie-Stack,
-> Erweiterung der eigenen SE-Kompotenzen,
+> Erweiterung der eigenen SE-Kompetenzen,
 > prospektive Anwender am Lehrstuhl an Entwicklung beteiligt,
 > Einsatz am Lehrstuhl angestrebt   
 > 
