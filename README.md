@@ -112,6 +112,24 @@ Weitere Informationen zum Forschungsprojekt: https://www.fernuni-hagen.de/evis/r
 
 ## Weitere Themenvorschläge
 
+### Themenvorschlag: Data Modeling and Database Design Patterns - A Synthesis and Review of Proposals (Prof. Strecker)
+
+> [!Note]  
+> Studienniveau: B.Sc./M.Sc. 
+>
+> Sprache: Englisch oder Deutsch
+>
+> Forschungsmethodische Fundierung: Literatur-gestützt (Wissenschaftliche Literatur und Praktikerliteratur), Artefakte: Modellfragmente und Code-Beispiele
+>
+> Besonders reizvoll, weil: ideale Verbindung von theoretischer Fundierung und Anwendungsbezug, hohe Praxisrelevanz   
+> 
+> Dozent: Prof. Dr. Strecker
+>
+> Status: Aktuell, Interessenten per E-Mail an [Prof. Strecker](mailto:stefan.strecker@fernuni-hagen.de) wenden
+
+
+
+
 ### Themenvorschlag: Konzeption, Entwurf und Entwicklung eines Lehrstuhlinformationssystems (Prof. Strecker)
 
 > [!Note]  
