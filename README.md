@@ -10,7 +10,7 @@
 	- Individual Modeling Processes: Understanding modeling difficulties and designing tailored support for modelers
 - [Forschungsprojekt TOOL](#forschungsprojekt-tool--a-web-browser-based-modeling-tool-and-research-observatory)
 	- A web browser-based modeling tool and research observatory
-- [Weitere Themenvorschläge](#weitere-themenvorschl%C3%A4ge)
+- [Themenvorschläge in Zusammenhang mit weiteren Forschungsarbeiten](#themenvorschl%C3%A4ge-in-zusammenhang-mit-weiteren-forschungsarbeiten)
 
 
 &nbsp;
@@ -110,7 +110,7 @@ Weitere Informationen zum Forschungsprojekt: https://www.fernuni-hagen.de/evis/r
 
 &nbsp;
 
-## Weitere Themenvorschläge
+## Themenvorschläge in Zusammenhang mit weiteren Forschungsarbeiten
 
 ### Themenvorschlag: Data Modeling and Database Design Patterns - A Synthesis and Review of Proposals (Prof. Strecker)
 
