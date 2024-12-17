@@ -121,7 +121,7 @@ Weitere Informationen zum Forschungsprojekt: https://www.fernuni-hagen.de/evis/r
 >
 > Forschungsmethodische Fundierung: Literatur-gestützt (Wissenschaftliche Literatur und Praktikerbeiträge), Artefakte: Modellfragmente und Code-Beispiele
 >
-> Aufgabenstellung: In der Arbeit sollen, möglichst vollumfänglich, Analyse- und Entwurfsmuster für die Datenmodellierung und den Datenbankentwurf aufgearbeitet, miteinander in Beziehung gesetzt und vergleichend untersucht werden. Der Musterbegriff ist für diese Arbeit sinnhaft zu konzeptualisieren, sodass Muster auf allen relevanten Abstraktionsebenen von konzeptuellen Datenmodellen bis zum Datenbankentwurf (Entwurf des Datenbankschemas) eingeschlossen sind.  
+> Aufgabenstellung: In der Arbeit sollen Analyse- und Entwurfsmuster für die Datenmodellierung und den Datenbankentwurf aufgearbeitet, miteinander in Beziehung gesetzt und vergleichend untersucht werden. Der Musterbegriff ist für diese Arbeit so zu konzeptualisieren, sodass Muster auf allen relevanten Abstraktionsebenen von konzeptuellen Datenmodellen bis zum Datenbankentwurf (Entwurf des Datenbankschemas) eingeschlossen sind. Nicht betrachtet werden soll die Normalformenlehre des Datenbankentwurfs. Sogenannte "Anti-Patterns" für die Datenmodellierung und den Datenbankentwurf sind in die Arbeit einzubeziehen. 
 >
 > Besonders reizvoll, weil: ideale Verbindung von theoretischer Fundierung und Anwendungsbezug; hohe Praxisrelevanz; Originalität
 > 
@@ -131,6 +131,11 @@ Weitere Informationen zum Forschungsprojekt: https://www.fernuni-hagen.de/evis/r
 
 > [!Tip]
 > Zum Einlesen:
+> - https://en.wikipedia.org/wiki/Design_pattern
+> - https://en.wikipedia.org/wiki/Anti-pattern
+> - https://martinfowler.com/tags/analysis%20patterns.html
+> - https://softwarepatternslexicon.com
+> - https://softwarepatternslexicon.com/102/
 > - Hay, D. C. (1995). Data Model Patterns: Conventions of Thought. Dorset House Publishing. 
 > - Fowler, M. (1997). Analysis Patterns: Reusable Object Models. Reading, Massachusetts: Addison-Wesley.
 > - Simsion, G. C., Witt, G. C. (2005). Data Modeling Essentials. Amsterdam: Morgan Kaufmann.
