@@ -112,21 +112,34 @@ Weitere Informationen zum Forschungsprojekt: https://www.fernuni-hagen.de/evis/r
 
 ## Themenvorschläge in Zusammenhang mit weiteren Forschungsarbeiten
 
-### Themenvorschlag: Data Modeling and Database Design Patterns - A Synthesis and Review of Proposals (Prof. Strecker)
+### Themenvorschlag: Data Modeling Patterns and Database Design Patterns - A compilation and review on complementary levels of abstraction (Prof. Strecker)
 
 > [!Note]  
 > Studienniveau: B.Sc./M.Sc. 
 >
 > Sprache: Englisch oder Deutsch
 >
-> Forschungsmethodische Fundierung: Literatur-gestützt (Wissenschaftliche Literatur und Praktikerliteratur), Artefakte: Modellfragmente und Code-Beispiele
+> Forschungsmethodische Fundierung: Literatur-gestützt (Wissenschaftliche Literatur und Praktikerbeiträge), Artefakte: Modellfragmente und Code-Beispiele
 >
-> Besonders reizvoll, weil: ideale Verbindung von theoretischer Fundierung und Anwendungsbezug, hohe Praxisrelevanz   
+> Aufgabenstellung: In der Arbeit sollen, möglichst vollumfänglich, Analyse- und Entwurfsmuster für die Datenmodellierung und den Datenbankentwurf aufgearbeitet, miteinander in Beziehung gesetzt und vergleichend untersucht werden. Der Musterbegriff ist für diese Arbeit sinnhaft zu konzeptualisieren, sodass Muster auf allen relevanten Abstraktionsebenen von konzeptuellen Datenmodellen bis zum Datenbankentwurf (Entwurf des Datenbankschemas) eingeschlossen sind.  
+>
+> Besonders reizvoll, weil: ideale Verbindung von theoretischer Fundierung und Anwendungsbezug; hohe Praxisrelevanz; Originalität
 > 
 > Dozent: Prof. Dr. Strecker
 >
 > Status: Aktuell, Interessenten per E-Mail an [Prof. Strecker](mailto:stefan.strecker@fernuni-hagen.de) wenden
 
+> [!Tip]
+> Zum Einlesen:
+> - Hay, D. C. (1995). Data Model Patterns: Conventions of Thought. Dorset House Publishing. 
+> - Fowler, M. (1997). Analysis Patterns: Reusable Object Models. Reading, Massachusetts: Addison-Wesley.
+> - Simsion, G. C., Witt, G. C. (2005). Data Modeling Essentials. Amsterdam: Morgan Kaufmann.
+> - Silverston, L., Agnew, P. (2009). The Data Model Resource Book: Volume 3: Universal Patterns for Data Modeling. New York: John Wiley & Sons.
+> - Hay, D. C. (2006). Data model patterns: A metadata map. Amsterdam; Boston: Morgan Kaufmann.
+> - Blaha, M. (2010). Patterns of Data Modeling. Boca Raton: CRC Press.
+> - Fowler, M., Rice, D. (2002). Patterns of Enterprise Application Architecture. Boston, MA: Addison-Wesley.
+> - Gamma, E., Helm, R., Johnson, R.,, Vlissides, J. (2005). Design Patterns -- Elements of Reusable Object-Oriented Software. Addison-Wesley Professional.
+> - Alexander, C., Ishikawa, S.,, Silverstein, M. (1977). A Pattern Language: Towns, buildings, construction (Vol. 2). New York: Oxford University Press.
 
 
 
