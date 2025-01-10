@@ -46,8 +46,81 @@ Die Ergebnisse dieser Studie könnten dazu beitragen, die Entwicklung und Verbes
 
 Weitere Informationen zum Forschungsprojekt: https://www.fernuni-hagen.de/evis/research/projects/elmo.shtml
 
-> [!IMPORTANT]
-> Themenvorschläge folgen.
+
+### Themenvorschlag: Kognitive Prozesse der konzeptuellen Modellierung: eine systematische Literaturstudie (Philip Winkler, M.Sc.)
+
+> [!Note]  
+> Studienniveau: M.Sc. 
+>
+> Sprache: Englisch oder Deutsch
+>
+> Forschungsmethodische Fundierung: systematische Literaturstudie
+>
+> Aufgabenstellung: Das Erstellen konzeptueller Modelle ist eine komplexe Tätigkeit, die sich durch verschiedene kognitive Prozesse, z.B. Gedankengänge, Argumentations- und Entscheidungsprozesse, auszeichnet. Eine Erforschung dieser kognitiven Prozesse beim Modellieren kann einen Beitrag dazu leisten, Unterstützungs- und Lernangebote für die Modellierung zu konstruieren. Untersuchungen zu den kognitiven Prozessen der Modellierung wurden bereits an verschiedenen Stellen durchgeführt. In dieser Arbeit soll im Rahmen einer systematischen Literaturstudie der wissenschaftliche Diskurs zu kognitiven Prozessen beim Erstellen konzeptueller Modelle aufgearbeitet werden. Zu diesem Zweck werden relevante Themenbereiche, Methoden und Ergebnisse der Forschung herausgearbeitet, indem gezielt nach (zusammen mit dem Betreuer entwickelten) Suchbegriffen in akademischen Suchmaschinen gesucht und die identifizierten Beiträge anschließend aufbereitet und zueinander in Beziehung gesetzt werden. Hierzu werden Analysedimensionen festgelegt und die identifizierten Beiträge entsprechend aufbereitet und zueinander in Beziehung gesetzt. Insbesondere werden die Zielsetzungen der Arbeiten, die forschungsmethodischen Vorgehensweisen und die zugrundeliegenden Theorien aus der Kognitionswissenschaft systematisch erschlossen. Zudem werden die Ergebnisse der Arbeiten kategorisiert, integriert und ggf. auch begründet kritisert, indem z.B. Widersprüchlichkeiten und argumentative Lücken aufgezeigt werden. Die Arbeit setzt ein Interesse voraus, sich in die kognitionswissenschaftliche Primärliteratur einzuarbeiten und intensiv die theoretischen und begrifflichen Grundlagen zu erarbeiten (was ist ein kognitiver Prozess? wie werden kognitive Prozesse konzeptualisiert? in welchem entstehungsgeschichtlichen Rahmen sind diese Konzeptionen entstanden?)
+>
+> Besonders reizvoll, weil: spannendes, interdisziplinäres Thema, das zum Nachdenken anregt
+> 
+> Dozent: Philip Winkler, M.Sc.
+>
+> Status: Aktuell, Interessenten per E-Mail an [Philip Winkler](mailto:philip.winkler@fernuni-hagen.de) wenden
+
+> [!Tip]
+> Zum Einlesen:
+> - https://en.wikipedia.org/wiki/Problem_solving
+> - https://en.wikipedia.org/wiki/Cognition
+> - Thinking and Reasoning: A Very Short Introduction (Evans 2017)
+> - Wilmont, Ilona, et al. "Cognitive mechanisms of conceptual modelling: How do people do it?." Conceptual Modeling: 32th International Conference, ER 2013, Hong-Kong, China, November 11-13, 2013. Proceedings 32. Springer Berlin Heidelberg, 2013.
+
+
+### Themenvorschlag: Untersuchungen zu Übungsaufgaben der Datenmodellierung (Philip Winkler, M.Sc.)
+
+> [!Note]  
+> Studienniveau: B.Sc./M.Sc.
+>
+> Sprache: Deutsch
+>
+> Forschungsmethodische Fundierung: Qualitative Inhaltsanalyse, Konstruktion und diskursive Evaluation von Modellen
+>
+> Aufgabenstellung: Modellieren lernt man i.d.R. durch das eigenständige Erstellen von Modellen. Im Rahmen von Lehrveranstaltungen, Lehrbüchern und Online-Tutorien werden daher Modellierungsaufgaben eingesetzt, in denen angehende Modellierer auf Grundlage einer textuellen Beschreibung einer Diskurswelt Modelle erstellen. Wie diese Modellierungsaufgaben aufgebaut und formuliert werden sollen, ist nicht offensichtlich und es gibt keine klaren Richtlinien zur Konstruktion von Modellierungsaufgaben unterschiedlicher Schwierigkeitsgrade. Diese Arbeit dient dazu, ersten Überlegungen zur systematischen Erstellung von Modellierungsaufgaben anzustellen, indem bestehende Modellierungsaufgaben aus klassischen Lehrbüchern der (Wirtschafts-)informatik untersucht, verglichen und (z.B. nach Schwierigkeitsgraden) eingeordnet werden. Dazu werden Aufgaben zusammengestellt und nach äußeren Merkmalen (zugrundeliegende Domäne, Umfang, Formulierung, etc) klassifiziert. Die Aufgaben werden bearbeitet, wobei alle nicht-trivialen Entscheidungen bei der Erstellung der Modelle aufgelistet und begründet werden. Es wird auch begründet dargestellt, an welchen Stellen die Aufgaben mehrere Modellierungsalternativen erlauben. Basierend auf diesen Überlegungen werden die Herausforderungen der Modellierungsaufgaben charakterisiert und eine erste Beurteilung vorgenommen, in welchen Aspekten sich Modellierungsaufgaben unterschieden und auf welche Kompetenzen Modellierungsaufgaben unterschiedlicher Schwierigkeitsstufen abzielen. Voraussetzung für die Arbeit sind sehr gute Kenntnisse der Datenmodellierung.
+>
+> Besonders reizvoll, weil: es werden praxisrelevante, vertiefende Kenntnisse zur Datenmodellierung erworben
+> 
+> Dozent: Philip Winkler, M.Sc.
+>
+> Status: Aktuell, Interessenten per E-Mail an [Philip Winkler](mailto:philip.winkler@fernuni-hagen.de) wenden
+
+> [!Tip]
+> Zum Einlesen:
+> - Strecker und Frank. Modellierung betrieblicher Informationssysteme, FernUniversität in Hagen. (Skript zu Modul 31751)
+> - Staud. Datenmodellierung und Datenbankentwurf: Ein Vergleich aktueller Methoden. Springer-Verlag, 2005.
+> - Elmasri und Navathe. Grundlagen von Datenbanksystemen. Pearson Deutschland GmbH, 2009.
+> - Simsion und Witt. Data modeling essentials. Elsevier, 2004.
+
+
+### Themenvorschlag: Konzeptuelles Modellieren lernen: aktuelle Erkenntnisse der Forschung (Philip Winkler, M.Sc.)
+
+> [!Note]  
+> Studienniveau: B.Sc./M.Sc. 
+>
+> Sprache: Englisch oder Deutsch
+>
+> Forschungsmethodische Fundierung: systematische Literaturstudie
+>
+> Aufgabenstellung: In einer Literaturstudie von Rosenthal et al. wurden systematisch Forschungsbeiträge untersucht, die sich mit dem Erlernen der konzeptuellen Modellierung auseinandersetzen (Rosenthal et al. 2019). Diese Beiträge wurden nach diversen Kriterien kategorisiert, u.a. nach den zugrundeliegenden Lernparadigmen (z.B. »Behaviorismus«, »Konstruktivismus«) und Forschungsthemen (z.B. »modeling tool support« und »feedback«). Die Analyse behandelt Beiträge bis 2017. Seitdem wurden zahlreiche neue Beiträge zu dem Thema veröffentlicht. Ziel dieser Seminararbeit ist es, die Literatursuche um Beiträge ab 2017 zu ergänzen. Dazu wird eine Literatursuche auf Basis der Suchterme und Suchmaschinen aus der Literaturstudie von Rosenthal et al. 2019 durchgeführt. In den Suchmaschinen wird der Zeitraum auf Beiträge ab 2017 eingegrenzt. Die identifizierten Beiträge werden analog zu Rosenthal et al. 2019 analysiert und kategorisiert. Fortschritte in den bekannten Forschungsfeldern werden dargestellt und ggf. werden neue Themenfelder identifiziert. Forschungsmethodisch wird nach den Prinzipien systematischer Literaturstudien vorgegangen (vom Brocke 2009, Kitchenham et al. 2007, Webster & Watson 2002). Sollte sich die Suche als zu umfangreich für den Rahmen der Seminararbeit erweisen, wird rechtzeitig in Absprache mit dem Betreuer eine Eingrenzung, z.B. auf bestimmte Suchmaschinen, vorgenommen.
+>
+> Besonders reizvoll, weil: sehr aktuelles Forschungsthema
+> 
+> Dozent: Philip Winkler, M.Sc.
+>
+> Status: Aktuell, Interessenten per E-Mail an [Philip Winkler](mailto:philip.winkler@fernuni-hagen.de) wenden
+
+> [!Tip]
+> Zum Einlesen:
+> - Brocke, Jan vom, et al. »Reconstructing the giant: On the importance of rigour in documenting the literature search process.« (2009).
+> - Kitchenham, Barbara, and Stuart Charters. »Guidelines for Performing Systematic Literature Reviews in Software Engineering.« Keele University and Durham University Joint Report, 2007.
+> - Rosenthal, Kristina, Benjamin Ternes, and Stefan Strecker. »Learning Conceptual Modeling: structuring overview, research themes and paths for future research.« ECIS 2019.
+> - Soyka, Chantal, et al. »Toward a competence model for graphical modeling.« ACM Transactions on Computing Education 23.1 (2022): 1-30.
+> - Webster, Jane, and Richard T. Watson. »Analyzing the past to prepare for the future: Writing a literature review.« MIS quarterly (2002): xiii-xxiii.
 
 
 &nbsp;
@@ -104,8 +177,59 @@ Weitere Informationen zum Forschungsprojekt: https://www.fernuni-hagen.de/evis/r
 
 Weitere Informationen zum Forschungsprojekt: https://www.fernuni-hagen.de/evis/research/projects/TOOL.shtml
 
-> [!IMPORTANT]
-> Themenvorschläge folgen.
+### Themenvorschlag: Evaluation von Modellierungswerkzeugen für die Datenmodellierung (Philip Winkler, M.Sc.)
+
+> [!Note]  
+> Studienniveau: B.Sc./M.Sc. 
+>
+> Sprache: Englisch oder Deutsch
+>
+> Forschungsmethodische Fundierung: Evaluation
+>
+> Aufgabenstellung: Auf GitHub finden sich zahlreiche Open-Source Programmbibliotheken für die Datenmodellierung mit dem Entity-Relationship-Model. In dieser Abschlussarbeit werden diese Modellierungswerkzeuge und die zugrundeliegenden Code-Repositorien systematisch untersucht und auf ihre Einsatztauglichkeit für die Erstellung von Datenmodellen im Rahmen der Systemanalyse und des Systementwurfs evaluiert. Für die Analyse wird ein Beurteilungsrahmen mit geeigneten Kriterien herausgearbeitet. Die Beurteilungskriterien umfassen u.a. die implementierte Funktionalität, die Gestaltung des grafischen Editors (User Interface) und Charakteristika der Software-Architektur (z.B. die Erweiterbarkeit). Anhand der entwickelten Kriterien wird eine vergleichende Evaluation der Modellierungswerkzeuge vorgenommen. Das von der Forschungsgruppe EvIS entwickelte Modellierungswerkzeug TOOL wird mit in die Analyse aufgenommen.
+>
+> Besonders reizvoll, weil: Praxisrelevanz
+> 
+> Dozent: Philip Winkler, M.Sc.
+>
+> Status: Aktuell, Interessenten per E-Mail an [Philip Winkler](mailto:philip.winkler@fernuni-hagen.de) wenden
+
+> [!Tip]
+> Zum Einlesen:
+> - https://github.com/bpmn-io
+> - https://github.com/drawdb-io/drawdb
+> - https://github.com/brmodeloweb/brmodelo-app
+> - Frank, Ulrich. »Die Evaluation von Artefakten: Eine zentrale Herausforderung der Wirtschaftsinformatik.« Evaluation und Evaluationsforschung in der Wirtschaftsinformatik (1998): 35-48.
+> - Kirchner, Lutz, and Jürgen Jung. "A Framework for the Evaluation of Meta‑Modelling Tools." Electronic Journal of Information Systems Evaluation 10.1 (2007): pp 65-72.
+> - Seel, Christian, et al. »Vergleichende Analyse von Open-Source-Modellierungswerkzeugen als Basis für For-
+schungsprototypen.« (2016).
+> - Ternes, Benjamin, Kristina Rosenthal, and Stefan Strecker. »User interface design research for modeling tools:
+a literature study.« Enterprise Modelling and Information Systems Architectures (EMISAJ) 16 (2021): 4-1.
+
+
+### Themenvorschlag: Entwicklung eines Datenaustauschformats für Event-Logs in Modellierungswerkzeugen (Philip Winkler, M.Sc.)
+
+> [!Note]  
+> Studienniveau: M.Sc. 
+>
+> Sprache: Englisch oder Deutsch
+>
+> Forschungsmethodische Fundierung: konstruktionsorientierte Forschung
+>
+> Aufgabenstellung: Das in der Forschungsgruppe EvIS entwickelte Modellierungswerkzeug TOOL dient u.a. dazu, den Prozess der Modellierung zu erforschen. Dazu werden Interaktionen der Modellierer mit einer Modellierungsoberfläche aufgezeichnet, sodass der Modellierungsprozess zu einem späteren Zeitpunkt rekonstruiert werden kann. Zu diesen Interaktionen gehört das Erstellen neuer Modellelemente (z.B. eines neuen Entitätstyps), aber auch das Umbenennen, Verschieben und Löschen von Modellelementen (s. Supplementary Material zu Winkler et al. 2024). Momentan wird für den Datenaustausch ein Format benutzt, das zwar die Rekonstruktion des Modellierungsprozesses (»replay«) auf einer Modellierungsoberfläche ermöglicht, aber schwer zu verstehen und auszuwerten ist (s. »content«-Spalte des Event Logs, Supplementary Material zu Winkler et al. 2024). Dieses Datenaustauschformat lässt sich auch anders gestalten: Pinggera et al. nutzen zum Beispiel ein für das Process Mining entwickelte XML-Format (Pinggera et al. 2010). In dieser Arbeit wird ein auf XML oder JSON basierendes Datenaustauschformat und ein zugehöriges Übertragungsprotokoll zur Datenübertragung von Interaktionsdaten als Alternative zu der in TOOL implementierten Lösung entwickelt. Dabei werden folgende Überlegungen angestellt: Wie sollte das Datenformat definiert werden, d.h. welche Felder sind nötig? Welche Vor- und Nachteile hat das von Pinggera et al. benutzte Mining XML? Zu welchen Zeitpunkten während des Modellierungsprozesses sollen die Daten an den Server übertragen werden? (am Ende des Modellierungsprozesses? nach jeder Interaktion? Was stellt eine Interaktion, z.B. beim Umbennen, dar? ein Keystroke oder das Enter-Signal? Werden beim Verschieben von Elementen Zwischenpositionen gespeichert? wie wird mit der Aktion »Rückgängig machen« verfahren?) Ist eine Definition des Datenformats auf Grundlage von XML oder JSON sinnvoller für den angestrebten Zweck? Welche Vor- und Nachteile ergeben sich gegenüber der momentan in TOOL implementierten Datenübertragung? Die Arbeit folgt den Prinzipien der konstruktionsorientierten Forschung (Frank 2007, Peffers et al. 2007). Die Artefakte, d.h. die Definition des Datenaustauschformats (bzw. verschiedener Alternativen für das Datenaustauschformat) und das zugehörige Übertragungsprotokoll, werden systematisch auf Basis von präzise definierten Anforderungen unter Abwägung verschiedener Aspekte (Performanz, Auswertbarkeit, etc.) in Absprache mit dem Betreuer entwickelt und evaluiert.
+>
+> Besonders reizvoll, weil: Praxisrelevanz
+> 
+> Dozent: Philip Winkler, M.Sc.
+>
+> Status: Aktuell, Interessenten per E-Mail an [Philip Winkler](mailto:philip.winkler@fernuni-hagen.de) wenden
+
+> [!Tip]
+> Zum Einlesen:
+> - https://de.wikipedia.org/wiki/Extensible_Markup_Language
+> - Pinggera, Jakob, Stefan Zugal, and Barbara Weber. »Investigating the process of process modeling with cheetah experimental platform.« (2010).
+> - Rosenthal, Kristina, Benjamin Ternes, and Stefan Strecker. »Understanding individual processes of conceptual modeling: A multi-modal observation and data generation approach.« Modellierung 2020. Gesellschaft für Informatik eV, 2020.
+> - Winkler, P., Rosenthal, K., & Strecker, S. (2023). Supplementary material for »Exploring Conceptual Data Modeling Processes: Insights from Clustering and Visualizing Modeling Sequences« (Data set). Zenodo.
 
 
 &nbsp;
