@@ -6,8 +6,6 @@
 	- E-Learning for Conceptual Modeling
 - [Forschungsprojekt SPORT](#forschungsprojekt-sport--research--development-of-a-web-application-for-managing-sports-clubs)
 	- Research & development of a web application for managing sports clubs
-- [Forschungsprojekt IMP](#forschungsprojekt-imp--individual-modeling-processes-understanding-modeling-difficulties-and-designing-tailored-support-for-modelers)
-	- Individual Modeling Processes: Understanding modeling difficulties and designing tailored support for modelers
 - [Forschungsprojekt TOOL](#forschungsprojekt-tool--a-web-browser-based-modeling-tool-and-research-observatory)
 	- A web browser-based modeling tool and research observatory
 - [Themenvorschläge in Zusammenhang mit weiteren Forschungsarbeiten](#themenvorschl%C3%A4ge-in-zusammenhang-mit-weiteren-forschungsarbeiten)
@@ -159,16 +157,6 @@ Weitere Informationen zum Forschungsprojekt: https://www.fernuni-hagen.de/evis/r
 > - https://surface-site.gigalixirapp.com
 > - https://www.phoenixframework.org
 > - [Web Components](https://github.com/webcomponents)
-
-
-&nbsp;
-
-## Forschungsprojekt IMP – Individual Modeling Processes: Understanding modeling difficulties and designing tailored support for modelers
-
-Weitere Informationen zum Forschungsprojekt: https://www.fernuni-hagen.de/evis/research/projects/imp.shtml
-
-> [!IMPORTANT]
-> Themenvorschläge folgen.
 
 
 &nbsp;
