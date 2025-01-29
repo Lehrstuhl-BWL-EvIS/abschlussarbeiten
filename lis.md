@@ -23,11 +23,12 @@ Wir am Lehrstuhl fungieren als "prospektive Anwender" in der Rolle des "Kunden" 
 ## Anwendungskontext des zu entwickelnden Lehrstuhlinformationssystems  
 
 Das Lehrstuhlinformationssystem soll für den [Lehrstuhl für BWL, insbes. Entwicklung von Informationssystemen (EvIS)](https://fernuni-hagen.de/evis) an der Fakultät für Wirtschaftswissenschaft der FernUniversität in Hagen entwickelt werden.
-Die folgende Darstellung des Anwendungskontexts ergänzen Sie in Ihrem Team durch eine sorgfältige Auswertung der Website des Lehrstuhls.
-Der Lehrstuhl hat mehrere Mitarbeiter in verschiedenen organisatorischen Rollen (Professor, wissenschaftlicher Mitarbeiter, nicht-wissenschaftlicher Mitarbeiter, ...).
+Die folgende Darstellung des Anwendungskontexts ergänzen Sie durch eine sorgfältige Auswertung der Website des Lehrstuhls und Gespräche mit dem Betreuer der Arbeit:
+
+- Der Lehrstuhl hat mehrere Mitarbeiter in verschiedenen organisatorischen Rollen (Professor,  wissenschaftlicher Mitarbeiter, nicht-wissenschaftlicher Mitarbeiter, Prüfer, Betreuer, ...).
 Anwender des Lehrstuhlinformationssystems sind ausschließlich Mitarbeiter des Lehrstuhls.
 Bislang wird am Lehrstuhl kein dediziertes Lehrstuhlinformationssystem eingesetzt.
-Mit dem Lehrstuhlinformationssystem soll zukünftig das Verwalten und Auswerten von Daten über Klausuren, Seminare und Abschlussarbeiten ermöglicht werden.
+Mit dem Lehrstuhlinformationssystem soll zukünftig das Verwalten und Auswerten von Daten über  Abschlussarbeiten, Seminare und Klausuren ermöglicht werden.
 Idealerweise sollen Daten aus dem in der Fakultät eingesetzten web-basierten Informationssystem WebRegIS per Datenexport/Datenimport übernommen werden können. Derzeit ist der strukturierte Datenexport aus WebRegIS jedoch noch nicht möglich und daher wird vorläufig die manuelle Datenübernahme aus WebRegIS anvisiert und das bedeutet, für das Seminar gehen wir von einer manuellen Dateneingabe in das Lehrstuhlinformationssystem aus.
 
 Das Lehrstuhlinformationssystem ist als WebApp zu konzipieren, um Zugriff von innerhalb und außerhalb des FernUniversitäts-Rechnernetzes zu ermöglichen und um sowohl mobile als auch stationäre Endgeräte der Mitarbeiter nutzen zu können.
