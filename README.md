@@ -258,7 +258,21 @@ a literature study.« Enterprise Modelling and Information Systems Architectures
 > - Gamma, E., Helm, R., Johnson, R.,, Vlissides, J. (2005). Design Patterns -- Elements of Reusable Object-Oriented Software. Addison-Wesley Professional.
 > - Alexander, C., Ishikawa, S.,, Silverstein, M. (1977). A Pattern Language: Towns, buildings, construction (Vol. 2). New York: Oxford University Press.
 
+### Themenvorschlag: Exploring the Ash Framework and its DSL for developing Elixir/Phoenix web applications (Prof. Strecker)
 
+> [!Note]  
+> Studienniveau: M.Sc. 
+>
+> Sprache: Englisch o. Deutsch
+>
+> Forschungsmethodische Fundierung: Konstruktionsorientierter Forschungsansatz, Forschung durch Entwicklung
+>
+> Aufgabenstellung: tbd
+
+
+> [!Tip]
+> Zum Einlesen:
+> - https://ash-hq.org
 
 ### Themenvorschlag: Konzeption, Entwurf und Entwicklung eines Lehrstuhlinformationssystems (Prof. Strecker)
 
