@@ -4,8 +4,8 @@
 	- Software Architecture Modeling
 - [Forschungsprojekt ELMO](#forschungsprojekt-elmo--e-learning-for-conceptual-modeling)
 	- E-Learning for Conceptual Modeling
-- [Forschungsprojekt SPORT](#forschungsprojekt-sport--research--development-of-a-web-application-for-managing-sports-clubs)
-	- Research & development of a web application for managing sports clubs
+- [Forschungsprojekt SPORT](#forschungsprojekt-sport--research-through-development-of-a-web-application-for-managing-sports-clubs)
+	- Research through development of a web application for managing sports clubs
 - [Forschungsprojekt TOOL](#forschungsprojekt-tool--a-web-browser-based-modeling-tool-and-research-observatory)
 	- A web browser-based modeling tool and research observatory
 - [Themenvorschläge in Zusammenhang mit weiteren Forschungsarbeiten](#themenvorschl%C3%A4ge-in-zusammenhang-mit-weiteren-forschungsarbeiten)
@@ -123,36 +123,53 @@ Weitere Informationen zum Forschungsprojekt: https://www.fernuni-hagen.de/evis/r
 
 &nbsp;
 
-## Forschungsprojekt SPORT – Research & development of a web application for managing sports clubs
+## Forschungsprojekt SPORT – Research through development of a web application for managing sports clubs
 
 Weitere Informationen zum Forschungsprojekt: https://www.fernuni-hagen.de/evis/research/projects/sport.shtml
 
-### UI Components for Web Applications: Comparing Alternative Implementation Approaches for Phoenix Liveview (Prof. Strecker)
+### Themenvorschlag: Diverse / Individuell (Bastian Kres, M.Sc.)
 
-> [!Note]  
-> Studienniveau: M.Sc. 
+> [!Note]
+> **Studienniveau:** B.Sc./M.Sc.
 >
-> Sprache: English oder Deutsch 
+> **Sprache:** Deutsch oder Englisch
 >
-> Forschungsmethodische Fundierung: Konstruktionsorientierter Forschungsansatz, Forschung durch Entwicklung
+> **Forschungsmethodische Fundierung:** Konstruktionsorientierter Forschungsansatz, Forschung durch Entwicklung
 >
-> Aufgabenstellung (Kurzfassung): Begriffliche, theoretische und methodische Grundlagen zu UI/UX-Design für Web-Applikationen
-> mit Schwerpunkt auf Entwurf von UI-Komponenten,
-> Implementierungskonzepte für Components für Phoenix Liveview (Stateless / Stateful Components),
-> Implementierungskonzepte der Surface-UI-Bibliothek für Phoenix Liveview,
-> prototypische vergleichende Implementierung elementarer UI-Komponenten (u.a. Button, Dropdown) mit Phoenix Liveview und Surface UI
-> kriteriengeleitete diskursive Evaluation beider Ansätze
+> **Aufgabenstellung:** Das [Forschungsprojekt SPORT](https://www.fernuni-hagen.de/evis/research/projects/sport.shtml) entwirft, entwickelt, testet und evaluiert die Webapplikation [Sportyweb](https://github.com/Lehrstuhl-BWL-EvIS/sportyweb "Externer Link") – eine integrierte Anwendungssoftware für das Verwalten, Organisieren und Betreiben von Sportvereinen. Die Weiterentwicklung erfolgt iterativ, wobei die konkreten Themen/Aufgabenstellungen in der Regel in Absprache mit Ihnen, unter Einbezug des derzeitigen Entwicklungstands und Ihren eigenen Vorkenntnissen und Interessen entstehen. Melden Sie sich bei Interesse idealerweise so früh wie möglich!
 >
-> Besonders interessant und reizvoll, weil: UI/UX-Design mit topaktuellem Technologie-Stack,
-> theoretische Reflexion mit Prototypentwicklung verbinden,
-> anspruchsvolle Herausforderung    
-> 
-> Dozent: Prof. Dr. Strecker
+> **Besonders interessant und reizvoll, weil:** Sie verbinden wissenschaftliche Forschung mit der praxisnahen Entwicklung eines Open-Source-Informationssystems und erwerben dabei Kenntnisse bezüglich funktionaler Programmierung und dem Entwurf und der Implementierung von Webapplikationen. Eine ganze Liste von Vorteilen finden Sie [hier](https://www.fernuni-hagen.de/evis/research/projects/sport.shtml) im Abschnitt "Your advantages of joining us".
 >
-> Status: Aktuell, Interessenten per E-Mail an [Prof. Strecker](mailto:stefan.strecker@fernuni-hagen.de) wenden
+> **Dozent:** Bastian Kres, M.Sc.
+>
+> **Status:** Aktuell. Interessenten wenden sich per E-Mail an [Bastian Kres](https://www.fernuni-hagen.de/evis/team/bastian.kres).
 
 > [!Tip]
-> Zum Einlesen:
+> **Zum Einlesen:**
+> - https://www.fernuni-hagen.de/evis/research/projects/sport.shtml
+> - https://github.com/Lehrstuhl-BWL-EvIS/sportyweb
+> - https://elixir-lang.org/
+> - https://www.phoenixframework.org/
+
+### Themenvorschlag: UI Components for Web Applications: Comparing Alternative Implementation Approaches for Phoenix Liveview (Prof. Strecker)
+
+> [!Note]
+> **Studienniveau:** M.Sc.
+>
+> **Sprache:** Deutsch oder Englisch
+>
+> **Forschungsmethodische Fundierung:** Konstruktionsorientierter Forschungsansatz, Forschung durch Entwicklung
+>
+> **Aufgabenstellung (Kurzfassung):** Begriffliche, theoretische und methodische Grundlagen zu UI/UX-Design für Web-Applikationen mit Schwerpunkt auf Entwurf von UI-Komponenten, Implementierungskonzepte für Components für Phoenix Liveview (Stateless / Stateful Components), Implementierungskonzepte der Surface-UI-Bibliothek für Phoenix Liveview, prototypische vergleichende Implementierung elementarer UI-Komponenten (u.a. Button, Dropdown) mit Phoenix Liveview und Surface UI kriteriengeleitete diskursive Evaluation beider Ansätze.
+>
+> **Besonders interessant und reizvoll, weil:** UI/UX-Design mit topaktuellem Technologie-Stack, theoretische Reflexion mit Prototypentwicklung verbinden, anspruchsvolle Herausforderung.
+> 
+> **Dozent:** Prof. Dr. Strecker
+>
+> **Status:** Aktuell. Interessenten wenden sich per E-Mail an [Prof. Strecker](mailto:stefan.strecker@fernuni-hagen.de).
+
+> [!Tip]
+> **Zum Einlesen:**
 > - https://hexdocs.pm/phoenix_live_view/1.0.0-rc.7/
 > - https://surface-site.gigalixirapp.com
 > - https://www.phoenixframework.org
