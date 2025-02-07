@@ -47,23 +47,23 @@ Weitere Informationen zum Forschungsprojekt: https://www.fernuni-hagen.de/evis/r
 
 ### Themenvorschlag: Kognitive Prozesse der konzeptuellen Modellierung: eine systematische Literaturstudie (Philip Winkler, M.Sc.)
 
-> [!Note]  
-> Studienniveau: M.Sc. 
+> [!Note]
+> **Studienniveau:** M.Sc.
 >
-> Sprache: Englisch oder Deutsch
+> **Sprache:** Deutsch oder Englisch
 >
-> Forschungsmethodische Fundierung: systematische Literaturstudie
+> **Forschungsmethodische Fundierung:** systematische Literaturstudie
 >
-> Aufgabenstellung: Das Erstellen konzeptueller Modelle ist eine komplexe Tätigkeit, die sich durch verschiedene kognitive Prozesse, z.B. Gedankengänge, Argumentations- und Entscheidungsprozesse, auszeichnet. Eine Erforschung dieser kognitiven Prozesse beim Modellieren kann einen Beitrag dazu leisten, Unterstützungs- und Lernangebote für die Modellierung zu konstruieren. Untersuchungen zu den kognitiven Prozessen der Modellierung wurden bereits an verschiedenen Stellen durchgeführt. In dieser Arbeit soll im Rahmen einer systematischen Literaturstudie der wissenschaftliche Diskurs zu kognitiven Prozessen beim Erstellen konzeptueller Modelle aufgearbeitet werden. Zu diesem Zweck werden relevante Themenbereiche, Methoden und Ergebnisse der Forschung herausgearbeitet, indem gezielt nach (zusammen mit dem Betreuer entwickelten) Suchbegriffen in akademischen Suchmaschinen gesucht und die identifizierten Beiträge anschließend aufbereitet und zueinander in Beziehung gesetzt werden. Hierzu werden Analysedimensionen festgelegt und die identifizierten Beiträge entsprechend aufbereitet und zueinander in Beziehung gesetzt. Insbesondere werden die Zielsetzungen der Arbeiten, die forschungsmethodischen Vorgehensweisen und die zugrundeliegenden Theorien aus der Kognitionswissenschaft systematisch erschlossen. Zudem werden die Ergebnisse der Arbeiten kategorisiert, integriert und ggf. auch begründet kritisert, indem z.B. Widersprüchlichkeiten und argumentative Lücken aufgezeigt werden. Die Arbeit setzt ein Interesse voraus, sich in die kognitionswissenschaftliche Primärliteratur einzuarbeiten und intensiv die theoretischen und begrifflichen Grundlagen zu erarbeiten (was ist ein kognitiver Prozess? wie werden kognitive Prozesse konzeptualisiert? in welchem entstehungsgeschichtlichen Rahmen sind diese Konzeptionen entstanden?)
+> **Aufgabenstellung:** Das Erstellen konzeptueller Modelle ist eine komplexe Tätigkeit, die sich durch verschiedene kognitive Prozesse, z.B. Gedankengänge, Argumentations- und Entscheidungsprozesse, auszeichnet. Eine Erforschung dieser kognitiven Prozesse beim Modellieren kann einen Beitrag dazu leisten, Unterstützungs- und Lernangebote für die Modellierung zu konstruieren. Untersuchungen zu den kognitiven Prozessen der Modellierung wurden bereits an verschiedenen Stellen durchgeführt. In dieser Arbeit soll im Rahmen einer systematischen Literaturstudie der wissenschaftliche Diskurs zu kognitiven Prozessen beim Erstellen konzeptueller Modelle aufgearbeitet werden. Zu diesem Zweck werden relevante Themenbereiche, Methoden und Ergebnisse der Forschung herausgearbeitet, indem gezielt nach (zusammen mit dem Betreuer entwickelten) Suchbegriffen in akademischen Suchmaschinen gesucht und die identifizierten Beiträge anschließend aufbereitet und zueinander in Beziehung gesetzt werden. Hierzu werden Analysedimensionen festgelegt und die identifizierten Beiträge entsprechend aufbereitet und zueinander in Beziehung gesetzt. Insbesondere werden die Zielsetzungen der Arbeiten, die forschungsmethodischen Vorgehensweisen und die zugrundeliegenden Theorien aus der Kognitionswissenschaft systematisch erschlossen. Zudem werden die Ergebnisse der Arbeiten kategorisiert, integriert und ggf. auch begründet kritisert, indem z.B. Widersprüchlichkeiten und argumentative Lücken aufgezeigt werden. Die Arbeit setzt ein Interesse voraus, sich in die kognitionswissenschaftliche Primärliteratur einzuarbeiten und intensiv die theoretischen und begrifflichen Grundlagen zu erarbeiten (was ist ein kognitiver Prozess? wie werden kognitive Prozesse konzeptualisiert? in welchem entstehungsgeschichtlichen Rahmen sind diese Konzeptionen entstanden?)
 >
-> Besonders reizvoll, weil: spannendes, interdisziplinäres Thema, das zum Nachdenken anregt
-> 
-> Dozent: Philip Winkler, M.Sc.
+> **Besonders interessant und reizvoll, weil:** spannendes, interdisziplinäres Thema, das zum Nachdenken anregt
 >
-> Status: Aktuell, Interessenten per E-Mail an [Philip Winkler](mailto:philip.winkler@fernuni-hagen.de) wenden
+> **Dozent:** Philip Winkler, M.Sc.
+>
+> **Status:** Aktuell. Interessenten wenden sich per E-Mail an [Philip Winkler](mailto:philip.winkler@fernuni-hagen.de)
 
 > [!Tip]
-> Zum Einlesen:
+> **Zum Einlesen:**
 > - https://en.wikipedia.org/wiki/Problem_solving
 > - https://en.wikipedia.org/wiki/Cognition
 > - Thinking and Reasoning: A Very Short Introduction (Evans 2017)
@@ -72,23 +72,23 @@ Weitere Informationen zum Forschungsprojekt: https://www.fernuni-hagen.de/evis/r
 
 ### Themenvorschlag: Untersuchungen zu Übungsaufgaben der Datenmodellierung (Philip Winkler, M.Sc.)
 
-> [!Note]  
-> Studienniveau: B.Sc./M.Sc.
+> [!Note]
+> **Studienniveau:** B.Sc./M.Sc.
 >
-> Sprache: Deutsch
+> **Sprache:** Deutsch
 >
-> Forschungsmethodische Fundierung: Qualitative Inhaltsanalyse, Konstruktion und diskursive Evaluation von Modellen
+> **Forschungsmethodische Fundierung:** Qualitative Inhaltsanalyse, Konstruktion und diskursive Evaluation von Modellen
 >
-> Aufgabenstellung: Modellieren lernt man i.d.R. durch das eigenständige Erstellen von Modellen. Im Rahmen von Lehrveranstaltungen, Lehrbüchern und Online-Tutorien werden daher Modellierungsaufgaben eingesetzt, in denen angehende Modellierer auf Grundlage einer textuellen Beschreibung einer Diskurswelt Modelle erstellen. Wie diese Modellierungsaufgaben aufgebaut und formuliert werden sollen, ist nicht offensichtlich und es gibt keine klaren Richtlinien zur Konstruktion von Modellierungsaufgaben unterschiedlicher Schwierigkeitsgrade. Diese Arbeit dient dazu, ersten Überlegungen zur systematischen Erstellung von Modellierungsaufgaben anzustellen, indem bestehende Modellierungsaufgaben aus klassischen Lehrbüchern der (Wirtschafts-)informatik untersucht, verglichen und (z.B. nach Schwierigkeitsgraden) eingeordnet werden. Dazu werden Aufgaben zusammengestellt und nach äußeren Merkmalen (zugrundeliegende Domäne, Umfang, Formulierung, etc) klassifiziert. Die Aufgaben werden bearbeitet, wobei alle nicht-trivialen Entscheidungen bei der Erstellung der Modelle aufgelistet und begründet werden. Es wird auch begründet dargestellt, an welchen Stellen die Aufgaben mehrere Modellierungsalternativen erlauben. Basierend auf diesen Überlegungen werden die Herausforderungen der Modellierungsaufgaben charakterisiert und eine erste Beurteilung vorgenommen, in welchen Aspekten sich Modellierungsaufgaben unterschieden und auf welche Kompetenzen Modellierungsaufgaben unterschiedlicher Schwierigkeitsstufen abzielen. Voraussetzung für die Arbeit sind sehr gute Kenntnisse der Datenmodellierung.
+> **Aufgabenstellung:** Modellieren lernt man i.d.R. durch das eigenständige Erstellen von Modellen. Im Rahmen von Lehrveranstaltungen, Lehrbüchern und Online-Tutorien werden daher Modellierungsaufgaben eingesetzt, in denen angehende Modellierer auf Grundlage einer textuellen Beschreibung einer Diskurswelt Modelle erstellen. Wie diese Modellierungsaufgaben aufgebaut und formuliert werden sollen, ist nicht offensichtlich und es gibt keine klaren Richtlinien zur Konstruktion von Modellierungsaufgaben unterschiedlicher Schwierigkeitsgrade. Diese Arbeit dient dazu, ersten Überlegungen zur systematischen Erstellung von Modellierungsaufgaben anzustellen, indem bestehende Modellierungsaufgaben aus klassischen Lehrbüchern der (Wirtschafts-)informatik untersucht, verglichen und (z.B. nach Schwierigkeitsgraden) eingeordnet werden. Dazu werden Aufgaben zusammengestellt und nach äußeren Merkmalen (zugrundeliegende Domäne, Umfang, Formulierung, etc) klassifiziert. Die Aufgaben werden bearbeitet, wobei alle nicht-trivialen Entscheidungen bei der Erstellung der Modelle aufgelistet und begründet werden. Es wird auch begründet dargestellt, an welchen Stellen die Aufgaben mehrere Modellierungsalternativen erlauben. Basierend auf diesen Überlegungen werden die Herausforderungen der Modellierungsaufgaben charakterisiert und eine erste Beurteilung vorgenommen, in welchen Aspekten sich Modellierungsaufgaben unterschieden und auf welche Kompetenzen Modellierungsaufgaben unterschiedlicher Schwierigkeitsstufen abzielen. Voraussetzung für die Arbeit sind sehr gute Kenntnisse der Datenmodellierung.
 >
-> Besonders reizvoll, weil: es werden praxisrelevante, vertiefende Kenntnisse zur Datenmodellierung erworben
-> 
-> Dozent: Philip Winkler, M.Sc.
+> **Besonders interessant und reizvoll, weil:** es werden praxisrelevante, vertiefende Kenntnisse zur Datenmodellierung erworben
 >
-> Status: Aktuell, Interessenten per E-Mail an [Philip Winkler](mailto:philip.winkler@fernuni-hagen.de) wenden
+> **Dozent:** Philip Winkler, M.Sc.
+>
+> **Status:** Aktuell. Interessenten wenden sich per E-Mail an [Philip Winkler](mailto:philip.winkler@fernuni-hagen.de)
 
 > [!Tip]
-> Zum Einlesen:
+> **Zum Einlesen:**
 > - Strecker und Frank. Modellierung betrieblicher Informationssysteme, FernUniversität in Hagen. (Skript zu Modul 31751)
 > - Staud. Datenmodellierung und Datenbankentwurf: Ein Vergleich aktueller Methoden. Springer-Verlag, 2005.
 > - Elmasri und Navathe. Grundlagen von Datenbanksystemen. Pearson Deutschland GmbH, 2009.
@@ -97,23 +97,23 @@ Weitere Informationen zum Forschungsprojekt: https://www.fernuni-hagen.de/evis/r
 
 ### Themenvorschlag: Konzeptuelles Modellieren lernen: aktuelle Erkenntnisse der Forschung (Philip Winkler, M.Sc.)
 
-> [!Note]  
-> Studienniveau: B.Sc./M.Sc. 
+> [!Note]
+> **Studienniveau:** B.Sc./M.Sc.
 >
-> Sprache: Englisch oder Deutsch
+> **Sprache:** Deutsch oder Englisch
 >
-> Forschungsmethodische Fundierung: systematische Literaturstudie
+> **Forschungsmethodische Fundierung:** systematische Literaturstudie
 >
-> Aufgabenstellung: In einer Literaturstudie von Rosenthal et al. wurden systematisch Forschungsbeiträge untersucht, die sich mit dem Erlernen der konzeptuellen Modellierung auseinandersetzen (Rosenthal et al. 2019). Diese Beiträge wurden nach diversen Kriterien kategorisiert, u.a. nach den zugrundeliegenden Lernparadigmen (z.B. »Behaviorismus«, »Konstruktivismus«) und Forschungsthemen (z.B. »modeling tool support« und »feedback«). Die Analyse behandelt Beiträge bis 2017. Seitdem wurden zahlreiche neue Beiträge zu dem Thema veröffentlicht. Ziel dieser Seminararbeit ist es, die Literatursuche um Beiträge ab 2017 zu ergänzen. Dazu wird eine Literatursuche auf Basis der Suchterme und Suchmaschinen aus der Literaturstudie von Rosenthal et al. 2019 durchgeführt. In den Suchmaschinen wird der Zeitraum auf Beiträge ab 2017 eingegrenzt. Die identifizierten Beiträge werden analog zu Rosenthal et al. 2019 analysiert und kategorisiert. Fortschritte in den bekannten Forschungsfeldern werden dargestellt und ggf. werden neue Themenfelder identifiziert. Forschungsmethodisch wird nach den Prinzipien systematischer Literaturstudien vorgegangen (vom Brocke 2009, Kitchenham et al. 2007, Webster & Watson 2002). Sollte sich die Suche als zu umfangreich für den Rahmen der Seminararbeit erweisen, wird rechtzeitig in Absprache mit dem Betreuer eine Eingrenzung, z.B. auf bestimmte Suchmaschinen, vorgenommen.
+> **Aufgabenstellung:** In einer Literaturstudie von Rosenthal et al. wurden systematisch Forschungsbeiträge untersucht, die sich mit dem Erlernen der konzeptuellen Modellierung auseinandersetzen (Rosenthal et al. 2019). Diese Beiträge wurden nach diversen Kriterien kategorisiert, u.a. nach den zugrundeliegenden Lernparadigmen (z.B. »Behaviorismus«, »Konstruktivismus«) und Forschungsthemen (z.B. »modeling tool support« und »feedback«). Die Analyse behandelt Beiträge bis 2017. Seitdem wurden zahlreiche neue Beiträge zu dem Thema veröffentlicht. Ziel dieser Seminararbeit ist es, die Literatursuche um Beiträge ab 2017 zu ergänzen. Dazu wird eine Literatursuche auf Basis der Suchterme und Suchmaschinen aus der Literaturstudie von Rosenthal et al. 2019 durchgeführt. In den Suchmaschinen wird der Zeitraum auf Beiträge ab 2017 eingegrenzt. Die identifizierten Beiträge werden analog zu Rosenthal et al. 2019 analysiert und kategorisiert. Fortschritte in den bekannten Forschungsfeldern werden dargestellt und ggf. werden neue Themenfelder identifiziert. Forschungsmethodisch wird nach den Prinzipien systematischer Literaturstudien vorgegangen (vom Brocke 2009, Kitchenham et al. 2007, Webster & Watson 2002). Sollte sich die Suche als zu umfangreich für den Rahmen der Seminararbeit erweisen, wird rechtzeitig in Absprache mit dem Betreuer eine Eingrenzung, z.B. auf bestimmte Suchmaschinen, vorgenommen.
 >
-> Besonders reizvoll, weil: sehr aktuelles Forschungsthema
-> 
-> Dozent: Philip Winkler, M.Sc.
+> **Besonders interessant und reizvoll, weil:** sehr aktuelles Forschungsthema
 >
-> Status: Aktuell, Interessenten per E-Mail an [Philip Winkler](mailto:philip.winkler@fernuni-hagen.de) wenden
+> **Dozent:** Philip Winkler, M.Sc.
+>
+> **Status:** Aktuell. Interessenten wenden sich per E-Mail an [Philip Winkler](mailto:philip.winkler@fernuni-hagen.de)
 
 > [!Tip]
-> Zum Einlesen:
+> **Zum Einlesen:**
 > - Brocke, Jan vom, et al. »Reconstructing the giant: On the importance of rigour in documenting the literature search process.« (2009).
 > - Kitchenham, Barbara, and Stuart Charters. »Guidelines for Performing Systematic Literature Reviews in Software Engineering.« Keele University and Durham University Joint Report, 2007.
 > - Rosenthal, Kristina, Benjamin Ternes, and Stefan Strecker. »Learning Conceptual Modeling: structuring overview, research themes and paths for future research.« ECIS 2019.
@@ -142,7 +142,7 @@ Weitere Informationen zum Forschungsprojekt: https://www.fernuni-hagen.de/evis/r
 >
 > **Dozent:** Bastian Kres, M.Sc.
 >
-> **Status:** Aktuell. Interessenten wenden sich per E-Mail an [Bastian Kres](https://www.fernuni-hagen.de/evis/team/bastian.kres).
+> **Status:** Aktuell. Interessenten wenden sich per E-Mail an [Bastian Kres](https://www.fernuni-hagen.de/evis/team/bastian.kres)
 
 > [!Tip]
 > **Zum Einlesen:**
@@ -150,6 +150,7 @@ Weitere Informationen zum Forschungsprojekt: https://www.fernuni-hagen.de/evis/r
 > - https://github.com/Lehrstuhl-BWL-EvIS/sportyweb
 > - https://elixir-lang.org/
 > - https://www.phoenixframework.org/
+
 
 ### Themenvorschlag: UI Components for Web Applications: Comparing Alternative Implementation Approaches for Phoenix Liveview (Prof. Strecker)
 
@@ -163,10 +164,10 @@ Weitere Informationen zum Forschungsprojekt: https://www.fernuni-hagen.de/evis/r
 > **Aufgabenstellung (Kurzfassung):** Begriffliche, theoretische und methodische Grundlagen zu UI/UX-Design für Web-Applikationen mit Schwerpunkt auf Entwurf von UI-Komponenten, Implementierungskonzepte für Components für Phoenix Liveview (Stateless / Stateful Components), Implementierungskonzepte der Surface-UI-Bibliothek für Phoenix Liveview, prototypische vergleichende Implementierung elementarer UI-Komponenten (u.a. Button, Dropdown) mit Phoenix Liveview und Surface UI kriteriengeleitete diskursive Evaluation beider Ansätze.
 >
 > **Besonders interessant und reizvoll, weil:** UI/UX-Design mit topaktuellem Technologie-Stack, theoretische Reflexion mit Prototypentwicklung verbinden, anspruchsvolle Herausforderung.
-> 
+>
 > **Dozent:** Prof. Dr. Strecker
 >
-> **Status:** Aktuell. Interessenten wenden sich per E-Mail an [Prof. Strecker](mailto:stefan.strecker@fernuni-hagen.de).
+> **Status:** Aktuell. Interessenten wenden sich per E-Mail an [Prof. Strecker](mailto:stefan.strecker@fernuni-hagen.de)
 
 > [!Tip]
 > **Zum Einlesen:**
@@ -182,25 +183,26 @@ Weitere Informationen zum Forschungsprojekt: https://www.fernuni-hagen.de/evis/r
 
 Weitere Informationen zum Forschungsprojekt: https://www.fernuni-hagen.de/evis/research/projects/TOOL.shtml
 
+
 ### Themenvorschlag: Evaluation von Modellierungswerkzeugen für die Datenmodellierung (Philip Winkler, M.Sc.)
 
-> [!Note]  
-> Studienniveau: B.Sc./M.Sc. 
+> [!Note]
+> **Studienniveau:** B.Sc./M.Sc.
 >
-> Sprache: Englisch oder Deutsch
+> **Sprache:** Deutsch oder Englisch
 >
-> Forschungsmethodische Fundierung: Evaluation
+> **Forschungsmethodische Fundierung:** Evaluation
 >
-> Aufgabenstellung: Auf GitHub finden sich zahlreiche Open-Source Programmbibliotheken für die Datenmodellierung mit dem Entity-Relationship-Model. In dieser Abschlussarbeit werden diese Modellierungswerkzeuge und die zugrundeliegenden Code-Repositorien systematisch untersucht und auf ihre Einsatztauglichkeit für die Erstellung von Datenmodellen im Rahmen der Systemanalyse und des Systementwurfs evaluiert. Für die Analyse wird ein Beurteilungsrahmen mit geeigneten Kriterien herausgearbeitet. Die Beurteilungskriterien umfassen u.a. die implementierte Funktionalität, die Gestaltung des grafischen Editors (User Interface) und Charakteristika der Software-Architektur (z.B. die Erweiterbarkeit). Anhand der entwickelten Kriterien wird eine vergleichende Evaluation der Modellierungswerkzeuge vorgenommen. Das von der Forschungsgruppe EvIS entwickelte Modellierungswerkzeug TOOL wird mit in die Analyse aufgenommen.
+> **Aufgabenstellung:** Auf GitHub finden sich zahlreiche Open-Source Programmbibliotheken für die Datenmodellierung mit dem Entity-Relationship-Model. In dieser Abschlussarbeit werden diese Modellierungswerkzeuge und die zugrundeliegenden Code-Repositorien systematisch untersucht und auf ihre Einsatztauglichkeit für die Erstellung von Datenmodellen im Rahmen der Systemanalyse und des Systementwurfs evaluiert. Für die Analyse wird ein Beurteilungsrahmen mit geeigneten Kriterien herausgearbeitet. Die Beurteilungskriterien umfassen u.a. die implementierte Funktionalität, die Gestaltung des grafischen Editors (User Interface) und Charakteristika der Software-Architektur (z.B. die Erweiterbarkeit). Anhand der entwickelten Kriterien wird eine vergleichende Evaluation der Modellierungswerkzeuge vorgenommen. Das von der Forschungsgruppe EvIS entwickelte Modellierungswerkzeug TOOL wird mit in die Analyse aufgenommen.
 >
-> Besonders reizvoll, weil: Praxisrelevanz
-> 
-> Dozent: Philip Winkler, M.Sc.
+> **Besonders interessant und reizvoll, weil:** Praxisrelevanz
 >
-> Status: Aktuell, Interessenten per E-Mail an [Philip Winkler](mailto:philip.winkler@fernuni-hagen.de) wenden
+> **Dozent:** Philip Winkler, M.Sc.
+>
+> **Status:** Aktuell. Interessenten wenden sich per E-Mail an [Philip Winkler](mailto:philip.winkler@fernuni-hagen.de)
 
 > [!Tip]
-> Zum Einlesen:
+> **Zum Einlesen:**
 > - https://github.com/bpmn-io
 > - https://github.com/drawdb-io/drawdb
 > - https://github.com/brmodeloweb/brmodelo-app
@@ -214,23 +216,23 @@ a literature study.« Enterprise Modelling and Information Systems Architectures
 
 ### Themenvorschlag: Entwicklung eines Datenaustauschformats für Event-Logs in Modellierungswerkzeugen (Philip Winkler, M.Sc.)
 
-> [!Note]  
-> Studienniveau: M.Sc. 
+> [!Note]
+> **Studienniveau:** M.Sc.
 >
-> Sprache: Englisch oder Deutsch
+> **Sprache:** Deutsch oder Englisch
 >
-> Forschungsmethodische Fundierung: konstruktionsorientierte Forschung
+> **Forschungsmethodische Fundierung:** konstruktionsorientierte Forschung
 >
-> Aufgabenstellung: Das in der Forschungsgruppe EvIS entwickelte Modellierungswerkzeug TOOL dient u.a. dazu, den Prozess der Modellierung zu erforschen. Dazu werden Interaktionen der Modellierer mit einer Modellierungsoberfläche aufgezeichnet, sodass der Modellierungsprozess zu einem späteren Zeitpunkt rekonstruiert werden kann. Zu diesen Interaktionen gehört das Erstellen neuer Modellelemente (z.B. eines neuen Entitätstyps), aber auch das Umbenennen, Verschieben und Löschen von Modellelementen (s. Supplementary Material zu Winkler et al. 2024). Momentan wird für den Datenaustausch ein Format benutzt, das zwar die Rekonstruktion des Modellierungsprozesses (»replay«) auf einer Modellierungsoberfläche ermöglicht, aber schwer zu verstehen und auszuwerten ist (s. »content«-Spalte des Event Logs, Supplementary Material zu Winkler et al. 2024). Dieses Datenaustauschformat lässt sich auch anders gestalten: Pinggera et al. nutzen zum Beispiel ein für das Process Mining entwickelte XML-Format (Pinggera et al. 2010). In dieser Arbeit wird ein auf XML oder JSON basierendes Datenaustauschformat und ein zugehöriges Übertragungsprotokoll zur Datenübertragung von Interaktionsdaten als Alternative zu der in TOOL implementierten Lösung entwickelt. Dabei werden folgende Überlegungen angestellt: Wie sollte das Datenformat definiert werden, d.h. welche Felder sind nötig? Welche Vor- und Nachteile hat das von Pinggera et al. benutzte Mining XML? Zu welchen Zeitpunkten während des Modellierungsprozesses sollen die Daten an den Server übertragen werden? (am Ende des Modellierungsprozesses? nach jeder Interaktion? Was stellt eine Interaktion, z.B. beim Umbennen, dar? ein Keystroke oder das Enter-Signal? Werden beim Verschieben von Elementen Zwischenpositionen gespeichert? wie wird mit der Aktion »Rückgängig machen« verfahren?) Ist eine Definition des Datenformats auf Grundlage von XML oder JSON sinnvoller für den angestrebten Zweck? Welche Vor- und Nachteile ergeben sich gegenüber der momentan in TOOL implementierten Datenübertragung? Die Arbeit folgt den Prinzipien der konstruktionsorientierten Forschung (Frank 2007, Peffers et al. 2007). Die Artefakte, d.h. die Definition des Datenaustauschformats (bzw. verschiedener Alternativen für das Datenaustauschformat) und das zugehörige Übertragungsprotokoll, werden systematisch auf Basis von präzise definierten Anforderungen unter Abwägung verschiedener Aspekte (Performanz, Auswertbarkeit, etc.) in Absprache mit dem Betreuer entwickelt und evaluiert.
+> **Aufgabenstellung:** Das in der Forschungsgruppe EvIS entwickelte Modellierungswerkzeug TOOL dient u.a. dazu, den Prozess der Modellierung zu erforschen. Dazu werden Interaktionen der Modellierer mit einer Modellierungsoberfläche aufgezeichnet, sodass der Modellierungsprozess zu einem späteren Zeitpunkt rekonstruiert werden kann. Zu diesen Interaktionen gehört das Erstellen neuer Modellelemente (z.B. eines neuen Entitätstyps), aber auch das Umbenennen, Verschieben und Löschen von Modellelementen (s. Supplementary Material zu Winkler et al. 2024). Momentan wird für den Datenaustausch ein Format benutzt, das zwar die Rekonstruktion des Modellierungsprozesses (»replay«) auf einer Modellierungsoberfläche ermöglicht, aber schwer zu verstehen und auszuwerten ist (s. »content«-Spalte des Event Logs, Supplementary Material zu Winkler et al. 2024). Dieses Datenaustauschformat lässt sich auch anders gestalten: Pinggera et al. nutzen zum Beispiel ein für das Process Mining entwickelte XML-Format (Pinggera et al. 2010). In dieser Arbeit wird ein auf XML oder JSON basierendes Datenaustauschformat und ein zugehöriges Übertragungsprotokoll zur Datenübertragung von Interaktionsdaten als Alternative zu der in TOOL implementierten Lösung entwickelt. Dabei werden folgende Überlegungen angestellt: Wie sollte das Datenformat definiert werden, d.h. welche Felder sind nötig? Welche Vor- und Nachteile hat das von Pinggera et al. benutzte Mining XML? Zu welchen Zeitpunkten während des Modellierungsprozesses sollen die Daten an den Server übertragen werden? (am Ende des Modellierungsprozesses? nach jeder Interaktion? Was stellt eine Interaktion, z.B. beim Umbennen, dar? ein Keystroke oder das Enter-Signal? Werden beim Verschieben von Elementen Zwischenpositionen gespeichert? wie wird mit der Aktion »Rückgängig machen« verfahren?) Ist eine Definition des Datenformats auf Grundlage von XML oder JSON sinnvoller für den angestrebten Zweck? Welche Vor- und Nachteile ergeben sich gegenüber der momentan in TOOL implementierten Datenübertragung? Die Arbeit folgt den Prinzipien der konstruktionsorientierten Forschung (Frank 2007, Peffers et al. 2007). Die Artefakte, d.h. die Definition des Datenaustauschformats (bzw. verschiedener Alternativen für das Datenaustauschformat) und das zugehörige Übertragungsprotokoll, werden systematisch auf Basis von präzise definierten Anforderungen unter Abwägung verschiedener Aspekte (Performanz, Auswertbarkeit, etc.) in Absprache mit dem Betreuer entwickelt und evaluiert.
 >
-> Besonders reizvoll, weil: Praxisrelevanz
-> 
-> Dozent: Philip Winkler, M.Sc.
+> **Besonders interessant und reizvoll, weil:** Praxisrelevanz
 >
-> Status: Aktuell, Interessenten per E-Mail an [Philip Winkler](mailto:philip.winkler@fernuni-hagen.de) wenden
+> **Dozent:** Philip Winkler, M.Sc.
+>
+> **Status:** Aktuell. Interessenten wenden sich per E-Mail an [Philip Winkler](mailto:philip.winkler@fernuni-hagen.de)
 
 > [!Tip]
-> Zum Einlesen:
+> **Zum Einlesen:**
 > - https://de.wikipedia.org/wiki/Extensible_Markup_Language
 > - Pinggera, Jakob, Stefan Zugal, and Barbara Weber. »Investigating the process of process modeling with cheetah experimental platform.« (2010).
 > - Rosenthal, Kristina, Benjamin Ternes, and Stefan Strecker. »Understanding individual processes of conceptual modeling: A multi-modal observation and data generation approach.« Modellierung 2020. Gesellschaft für Informatik eV, 2020.
@@ -241,31 +243,32 @@ a literature study.« Enterprise Modelling and Information Systems Architectures
 
 ## Themenvorschläge in Zusammenhang mit weiteren Forschungsarbeiten
 
+
 ### Themenvorschlag: Data Modeling Patterns and Database Design Patterns - A compilation and review on complementary levels of abstraction (Prof. Strecker)
 
-> [!Note]  
-> Studienniveau: B.Sc./M.Sc. 
+> [!Note]
+> **Studienniveau:** B.Sc./M.Sc.
 >
-> Sprache: Englisch oder Deutsch
+> **Sprache:** Deutsch oder Englisch
 >
-> Forschungsmethodische Fundierung: Literatur-gestützt (Wissenschaftliche Literatur und Praktikerbeiträge), Artefakte: Modellfragmente und Code-Beispiele
+> **Forschungsmethodische Fundierung:** Literatur-gestützt (Wissenschaftliche Literatur und Praktikerbeiträge), Artefakte: Modellfragmente und Code-Beispiele
 >
-> Aufgabenstellung: In der Arbeit sollen Analyse- und Entwurfsmuster für die Datenmodellierung und den Datenbankentwurf aufgearbeitet, miteinander in Beziehung gesetzt und vergleichend untersucht werden. Der Musterbegriff ist für diese Arbeit so zu konzeptualisieren, sodass Muster auf allen relevanten Abstraktionsebenen von konzeptuellen Datenmodellen bis zum Datenbankentwurf (Entwurf des Datenbankschemas) eingeschlossen sind. Nicht betrachtet werden soll die Normalformenlehre des Datenbankentwurfs. Sogenannte "Anti-Patterns" für die Datenmodellierung und den Datenbankentwurf sind in die Arbeit einzubeziehen. 
+> **Aufgabenstellung:** In der Arbeit sollen Analyse- und Entwurfsmuster für die Datenmodellierung und den Datenbankentwurf aufgearbeitet, miteinander in Beziehung gesetzt und vergleichend untersucht werden. Der Musterbegriff ist für diese Arbeit so zu konzeptualisieren, sodass Muster auf allen relevanten Abstraktionsebenen von konzeptuellen Datenmodellen bis zum Datenbankentwurf (Entwurf des Datenbankschemas) eingeschlossen sind. Nicht betrachtet werden soll die Normalformenlehre des Datenbankentwurfs. Sogenannte "Anti-Patterns" für die Datenmodellierung und den Datenbankentwurf sind in die Arbeit einzubeziehen.
 >
-> Besonders reizvoll, weil: ideale Verbindung von theoretischer Fundierung und Anwendungsbezug; hohe Praxisrelevanz; Originalität
-> 
-> Dozent: Prof. Dr. Strecker
+> **Besonders interessant und reizvoll, weil:** ideale Verbindung von theoretischer Fundierung und Anwendungsbezug; hohe Praxisrelevanz; Originalität
 >
-> Status: Aktuell, Interessenten per E-Mail an [Prof. Strecker](mailto:stefan.strecker@fernuni-hagen.de) wenden
+> **Dozent:** Prof. Dr. Strecker
+>
+> **Status:** Aktuell. Interessenten wenden sich per E-Mail an [Prof. Strecker](mailto:stefan.strecker@fernuni-hagen.de)
 
 > [!Tip]
-> Zum Einlesen:
+> **Zum Einlesen:**
 > - https://en.wikipedia.org/wiki/Design_pattern
 > - https://en.wikipedia.org/wiki/Anti-pattern
 > - https://martinfowler.com/tags/analysis%20patterns.html
 > - https://softwarepatternslexicon.com
 > - https://softwarepatternslexicon.com/102/
-> - Hay, D. C. (1995). Data Model Patterns: Conventions of Thought. Dorset House Publishing. 
+> - Hay, D. C. (1995). Data Model Patterns: Conventions of Thought. Dorset House Publishing.
 > - Fowler, M. (1997). Analysis Patterns: Reusable Object Models. Reading, Massachusetts: Addison-Wesley.
 > - Simsion, G. C., Witt, G. C. (2005). Data Modeling Essentials. Amsterdam: Morgan Kaufmann.
 > - Silverston, L., Agnew, P. (2009). The Data Model Resource Book: Volume 3: Universal Patterns for Data Modeling. New York: John Wiley & Sons.
@@ -275,62 +278,65 @@ a literature study.« Enterprise Modelling and Information Systems Architectures
 > - Gamma, E., Helm, R., Johnson, R.,, Vlissides, J. (2005). Design Patterns -- Elements of Reusable Object-Oriented Software. Addison-Wesley Professional.
 > - Alexander, C., Ishikawa, S.,, Silverstein, M. (1977). A Pattern Language: Towns, buildings, construction (Vol. 2). New York: Oxford University Press.
 
+
 ### Themenvorschlag: Exploring the Ash Framework and its DSL for developing Elixir/Phoenix web applications (Prof. Strecker)
 
-> [!Note]  
-> Studienniveau: M.Sc. 
+> [!Note]
+> **Studienniveau:** M.Sc.
 >
-> Sprache: Englisch o. Deutsch
+> **Sprache:** Englisch o. Deutsch
 >
-> Forschungsmethodische Fundierung: Konstruktionsorientierter Forschungsansatz, Forschung durch Entwicklung
+> **Forschungsmethodische Fundierung:** Konstruktionsorientierter Forschungsansatz, Forschung durch Entwicklung
 >
-> Aufgabenstellung: tbd
+> **Aufgabenstellung:** tbd
 
 
 > [!Tip]
-> Zum Einlesen:
+> **Zum Einlesen:**
 > - https://ash-hq.org
+
 
 ### Themenvorschlag: Konzeption, Entwurf und Entwicklung eines Lehrstuhlinformationssystems (Prof. Strecker)
 
-> [!Note]  
-> Studienniveau: M.Sc. 
+> [!Note]
+> **Studienniveau:** M.Sc.
 >
-> Sprache: Deutsch (alternativ: Englisch)
+> **Sprache:** Deutsch oder Englisch
 >
-> Forschungsmethodische Fundierung: Konstruktionsorientierter Forschungsansatz, Forschung durch Entwicklung
+> **Forschungsmethodische Fundierung:** Konstruktionsorientierter Forschungsansatz, Forschung durch Entwicklung
 >
-> Besonders interessant und reizvoll, weil: Full-Stack-Software-Entwicklung mit topaktuellem Technologie-Stack,
+> **Besonders interessant und reizvoll, weil:** Full-Stack-Software-Entwicklung mit topaktuellem Technologie-Stack,
 > Erweiterung der eigenen SE-Kompetenzen,
 > prospektive Anwender am Lehrstuhl an Entwicklung beteiligt,
-> Einsatz am Lehrstuhl angestrebt   
-> 
-> Dozent: Prof. Dr. Strecker
+> Einsatz am Lehrstuhl angestrebt
 >
-> Status: Aktuell, Interessenten per E-Mail an [Prof. Strecker](mailto:stefan.strecker@fernuni-hagen.de) wenden
+> **Dozent:** Prof. Dr. Strecker
+>
+> **Status:** Aktuell. Interessenten wenden sich per E-Mail an [Prof. Strecker](mailto:stefan.strecker@fernuni-hagen.de)
 
 > [!Tip]
-> Zum Einlesen:
+> **Zum Einlesen:**
 > - https://github.com/Lehrstuhl-BWL-EvIS/abschlussarbeit-themen/blob/main/lis.md
+
 
 ### Themenvorschlag: Software evolution and the discussion on accidental complexity vs. essential complexity (Prof. Strecker)
 
-> [!Note]  
-> Studienniveau: M.Sc. 
+> [!Note]
+> **Studienniveau:** M.Sc.
 >
-> Sprache: Englisch oder Deutsch
+> **Sprache:** Deutsch oder Englisch
 >
-> Forschungsmethodische Fundierung: Literatur-gestützt (Wissenschaftliche Literatur und Praktikerliteratur), ggf. Code-Beispiele
+> **Forschungsmethodische Fundierung:** Literatur-gestützt (Wissenschaftliche Literatur und Praktikerliteratur), ggf. Code-Beispiele
 >
-> Besondere Herausforderung: Transdisplinäres Thema erfordert Betrachtung und Untersuchung aus verschiedenen Perspektiven
-> unter Einbezug mehrerer wissenschaftlicher Forschungsgebiete (u.A. aus Software-Engineering, Linguistik, Philosophie, Ökonomie) 
-> 
-> Dozent: Prof. Dr. Strecker
+> **Besondere Herausforderung:** Transdisplinäres Thema erfordert Betrachtung und Untersuchung aus verschiedenen Perspektiven
+> unter Einbezug mehrerer wissenschaftlicher Forschungsgebiete (u.A. aus Software-Engineering, Linguistik, Philosophie, Ökonomie)
 >
-> Status: Aktuell, Interessenten per E-Mail an [Prof. Strecker](mailto:stefan.strecker@fernuni-hagen.de) wenden
+> **Dozent:** Prof. Dr. Strecker
+>
+> **Status:** Aktuell. Interessenten wenden sich per E-Mail an [Prof. Strecker](mailto:stefan.strecker@fernuni-hagen.de)
 
 > [!Tip]
-> Zum Einlesen:
+> **Zum Einlesen:**
 > - https://en.wikipedia.org/wiki/No_Silver_Bullet
 > - https://en.wikipedia.org/wiki/Lehman%27s_laws_of_software_evolution
 > - https://en.wikipedia.org/wiki/Software_evolution
