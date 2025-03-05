@@ -280,23 +280,30 @@ a literature study.« Enterprise Modelling and Information Systems Architectures
 > - Brown, William J. (1998). Anti Patterns: Refactoring software, architectures, and projects in crisis. New York: Wiley.
 > - Laplante, Phillip A. und Colin J. Neill (2006). Antipatterns: Identification, refactoring, and management. Boca Raton: Auerbach.
 
-
-
-### Themenvorschlag: Exploring the Ash Framework and its DSL for developing Elixir/Phoenix web applications (Prof. Strecker)
+### Themenvorschlag: Software evolution and the discussion on accidental complexity vs. essential complexity (Prof. Strecker)
 
 > [!Note]
 > **Studienniveau:** M.Sc.
 >
-> **Sprache:** Englisch o. Deutsch
+> **Sprache:** Deutsch oder Englisch
 >
-> **Forschungsmethodische Fundierung:** Konstruktionsorientierter Forschungsansatz, Forschung durch Entwicklung
+> **Forschungsmethodische Fundierung:** Literatur-gestützt (Wissenschaftliche Literatur und Praktikerliteratur), ggf. Code-Beispiele
 >
-> **Aufgabenstellung:** tbd
-
+> **Besondere Herausforderung:** Transdisplinäres Thema erfordert Betrachtung und Untersuchung aus verschiedenen Perspektiven
+> unter Einbezug mehrerer wissenschaftlicher Forschungsgebiete (u.A. aus Software-Engineering, Linguistik, Philosophie, Ökonomie)
+>
+> **Dozent:** Prof. Dr. Strecker
+>
+> **Status:** Aktuell. Interessenten wenden sich per E-Mail an [Prof. Strecker](mailto:stefan.strecker@fernuni-hagen.de)
 
 > [!Tip]
 > **Zum Einlesen:**
-> - https://ash-hq.org
+> - https://en.wikipedia.org/wiki/No_Silver_Bullet
+> - https://en.wikipedia.org/wiki/Lehman%27s_laws_of_software_evolution
+> - https://en.wikipedia.org/wiki/Software_evolution
+> - https://en.wikipedia.org/wiki/Programming_complexity
+> - https://en.wikipedia.org/wiki/Don_Norman: Living with complexity: https://mitpress.mit.edu/9780262528948/living-with-complexity
+> - https://porter360.medium.com/complexity-is-good-it-is-confusion-that-is-bad-7e00a8ade98f
 
 
 ### Themenvorschlag: Konzeption, Entwurf und Entwicklung eines Lehrstuhlinformationssystems (Prof. Strecker)
@@ -322,27 +329,30 @@ a literature study.« Enterprise Modelling and Information Systems Architectures
 > - https://github.com/Lehrstuhl-BWL-EvIS/abschlussarbeit-themen/blob/main/lis.md
 
 
-### Themenvorschlag: Software evolution and the discussion on accidental complexity vs. essential complexity (Prof. Strecker)
+
+### Themenvorschlag: Exploring the Ash Framework and its DSL for developing Elixir/Phoenix web applications (Prof. Strecker)
 
 > [!Note]
 > **Studienniveau:** M.Sc.
 >
-> **Sprache:** Deutsch oder Englisch
+> **Sprache:** Englisch o. Deutsch
 >
-> **Forschungsmethodische Fundierung:** Literatur-gestützt (Wissenschaftliche Literatur und Praktikerliteratur), ggf. Code-Beispiele
+> **Forschungsmethodische Fundierung:** Konstruktionsorientierter Forschungsansatz, Forschung durch Entwicklung
 >
-> **Besondere Herausforderung:** Transdisplinäres Thema erfordert Betrachtung und Untersuchung aus verschiedenen Perspektiven
-> unter Einbezug mehrerer wissenschaftlicher Forschungsgebiete (u.A. aus Software-Engineering, Linguistik, Philosophie, Ökonomie)
->
-> **Dozent:** Prof. Dr. Strecker
->
-> **Status:** Aktuell. Interessenten wenden sich per E-Mail an [Prof. Strecker](mailto:stefan.strecker@fernuni-hagen.de)
+> **Aufgabenstellung:** The [Ash framework](https://hexdocs.pm/ash/what-is-ash.html) provides a [declarative](https://en.wikipedia.org/wiki/Declarative_programming)
+> application development framework for the functional programming language [Elixir](https://elixir-lang.org).
+> The Ash framework Icenters on the key programming concept of a resource which, in many cases, corresponds to a domain concept such as a customer, order and invoice.
+> Very broadly, the Ash framework promises to increase developer productivity by freeing time to focus on domain requirements and business logic.
+> 
+> The main task of this thesis is to explore the Ash framework with regard to two objectives:
+> (1) Develop a demonstrative introduction to the Ash framework,
+> and (2) develop a set of demonstrative application examples for use in this introduction.
 
-> [!Tip]
+>  [!Tip]
 > **Zum Einlesen:**
-> - https://en.wikipedia.org/wiki/No_Silver_Bullet
-> - https://en.wikipedia.org/wiki/Lehman%27s_laws_of_software_evolution
-> - https://en.wikipedia.org/wiki/Software_evolution
-> - https://en.wikipedia.org/wiki/Programming_complexity
-> - https://en.wikipedia.org/wiki/Don_Norman: Living with complexity: https://mitpress.mit.edu/9780262528948/living-with-complexity
-> - https://porter360.medium.com/complexity-is-good-it-is-confusion-that-is-bad-7e00a8ade98f
+> - https://ash-hq.org
+> - https://elixir-lang.org
+> - https://hexdocs.pm/ash/what-is-ash.html
+> - https://ash-hq.org/media
+
+
