@@ -353,9 +353,5 @@ a literature study.« Enterprise Modelling and Information Systems Architectures
 >
 > **Status:** Aktuell. Interessenten wenden sich per E-Mail an [Prof. Strecker](mailto:stefan.strecker@fernuni-hagen.de)
 
-> [!Tip]
-> **Zum Einlesen:**
-> - 
-
 
 
