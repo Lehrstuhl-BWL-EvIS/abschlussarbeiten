@@ -253,7 +253,7 @@ a literature study.« Enterprise Modelling and Information Systems Architectures
 >
 > **Forschungsmethodische Fundierung:** Literatur-gestützt (Wissenschaftliche Literatur und Praktikerbeiträge), Artefakte: Modellfragmente und Code-Beispiele
 >
-> **Aufgabenstellung:** In der Arbeit sollen Analyse- und Entwurfsmuster für die Datenmodellierung und den Datenbankentwurf aufgearbeitet, miteinander in Beziehung gesetzt und vergleichend untersucht werden. Der Musterbegriff ist für diese Arbeit so zu konzeptualisieren, sodass Muster auf allen relevanten Abstraktionsebenen von konzeptuellen Datenmodellen bis zum Datenbankentwurf (Entwurf des Datenbankschemas) eingeschlossen sind. Nicht betrachtet werden soll die Normalformenlehre des Datenbankentwurfs. Sogenannte "Anti-Patterns" für die Datenmodellierung und den Datenbankentwurf sind in die Arbeit einzubeziehen.
+> **Aufgabenstellung:** In der Arbeit sollen Analyse- und Entwurfsmuster für die Datenmodellierung und den Datenbankentwurf aufgearbeitet, miteinander in Beziehung gesetzt und vergleichend untersucht werden. Der Musterbegriff ist für diese Arbeit so zu konzeptualisieren, sodass Muster auf allen relevanten Abstraktionsebenen von konzeptuellen Datenmodellen bis Entwurf des Datenbankschemas eingeschlossen sind. Nicht betrachtet werden soll die Normalformenlehre des Datenbankentwurfs. Sogenannte "Anti-Patterns" für die Datenmodellierung und den Datenbankentwurf sind in die Arbeit einzubeziehen.
 >
 > **Besonders interessant und reizvoll, weil:** ideale Verbindung von theoretischer Fundierung und Anwendungsbezug; hohe Praxisrelevanz; Originalität
 >
@@ -277,6 +277,9 @@ a literature study.« Enterprise Modelling and Information Systems Architectures
 > - Fowler, M., Rice, D. (2002). Patterns of Enterprise Application Architecture. Boston, MA: Addison-Wesley.
 > - Gamma, E., Helm, R., Johnson, R.,, Vlissides, J. (2005). Design Patterns -- Elements of Reusable Object-Oriented Software. Addison-Wesley Professional.
 > - Alexander, C., Ishikawa, S.,, Silverstein, M. (1977). A Pattern Language: Towns, buildings, construction (Vol. 2). New York: Oxford University Press.
+> - Brown, William J. (1998). Anti Patterns: Refactoring software, architectures, and projects in crisis. New York: Wiley.
+> - Laplante, Phillip A. und Colin J. Neill (2006). Antipatterns: Identification, refactoring, and management. Boca Raton: Auerbach.
+
 
 
 ### Themenvorschlag: Exploring the Ash Framework and its DSL for developing Elixir/Phoenix web applications (Prof. Strecker)
