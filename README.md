@@ -305,31 +305,6 @@ a literature study.« Enterprise Modelling and Information Systems Architectures
 > - https://en.wikipedia.org/wiki/Don_Norman: Living with complexity: https://mitpress.mit.edu/9780262528948/living-with-complexity
 > - https://porter360.medium.com/complexity-is-good-it-is-confusion-that-is-bad-7e00a8ade98f
 
-
-### Themenvorschlag: Konzeption, Entwurf und Entwicklung eines Lehrstuhlinformationssystems (Prof. Strecker)
-
-> [!Note]
-> **Studienniveau:** M.Sc.
->
-> **Sprache:** Deutsch oder Englisch
->
-> **Forschungsmethodische Fundierung:** Konstruktionsorientierter Forschungsansatz, Forschung durch Entwicklung
->
-> **Besonders interessant und reizvoll, weil:** Full-Stack-Software-Entwicklung mit topaktuellem Technologie-Stack,
-> Erweiterung der eigenen SE-Kompetenzen,
-> prospektive Anwender am Lehrstuhl an Entwicklung beteiligt,
-> Einsatz am Lehrstuhl angestrebt
->
-> **Dozent:** Prof. Dr. Strecker
->
-> **Status:** Aktuell. Interessenten wenden sich per E-Mail an [Prof. Strecker](mailto:stefan.strecker@fernuni-hagen.de)
-
-> [!Tip]
-> **Zum Einlesen:**
-> - https://github.com/Lehrstuhl-BWL-EvIS/abschlussarbeit-themen/blob/main/lis.md
-
-
-
 ### Themenvorschlag: Exploring the Ash Framework and its DSL for developing Elixir/Phoenix web applications (Prof. Strecker)
 
 > [!Note]
@@ -354,5 +329,33 @@ a literature study.« Enterprise Modelling and Information Systems Architectures
 > - https://elixir-lang.org
 > - https://hexdocs.pm/ash/what-is-ash.html
 > - https://ash-hq.org/media
+
+
+
+
+### Themenvorschlag: Konzeption, Entwurf und Entwicklung eines Lehrstuhl- und Fakultätsinformationssystems (Prof. Strecker)
+
+> [!Note]
+> **Studienniveau:** M.Sc.
+>
+> **Sprache:** Deutsch oder Englisch
+>
+> **Forschungsmethodische Fundierung:** Konstruktionsorientierter Forschungsansatz, Forschung durch Entwicklung
+>
+> **Aufgabenstellung:** [Eine Skizze des Themas und der Aufgabenstellung](https://github.com/Lehrstuhl-BWL-EvIS/abschlussarbeit-themen/blob/main/lis.md) motiviert dieses Thema und führt in die Hintergründe und den Kontext zu diesem Thema ein.   
+>
+> **Besonders interessant und reizvoll, weil:** Full-Stack-Software-Entwicklung mit topaktuellem Technologie-Stack,
+> Erweiterung der eigenen SE-Kompetenzen,
+> prospektive Anwender am Lehrstuhl an Entwicklung beteiligt,
+> Einsatz am Lehrstuhl angestrebt
+>
+> **Dozent:** Prof. Dr. Strecker
+>
+> **Status:** Aktuell. Interessenten wenden sich per E-Mail an [Prof. Strecker](mailto:stefan.strecker@fernuni-hagen.de)
+
+> [!Tip]
+> **Zum Einlesen:**
+> - 
+
 
 
