@@ -1,19 +1,21 @@
-# Konzeption, Entwurf und Entwicklung eines Lehrstuhlinformationssystems (Prof. Strecker)
+# Konzeption, Entwurf und Entwicklung eines Lehrstuhl- und Fakultätsinformationssystems (Prof. Strecker)
 
-## Ziel: Entwurf und prototypische Implementierung eines Lehrstuhlinformationssystems als Web-Applikation mit Elixir, Phoenix & PostgreSQL
+## Ziel: Entwurf und prototypische Implementierung eines Lehrstuhl- und Fakultätsinformationssystems als Web-Applikation mit Elixir, Ash,  Phoenix & PostgreSQL
 
 > Ein Lehrstuhlinformationssystem unterstützt die Mitarbeiter eines Lehrstuhls bei der Durchführung ihrer administrativen Aufgaben.
 > Die administrativen Aufgaben an einem Lehrstuhl sind vielfältig und umfassen grob die Aufgabenfelder Forschung, Lehre und universitäre Selbstverwaltung.
 > Im Bereich der Lehre zählen zu diesen Aufgaben die Planung, Organisation und Durchführung von Klausuren und Seminaren sowie die Planung, Organisation und Betreuung von Abschlussarbeiten (Bachelorarbeit, Masterarbeit, Diplomarbeit).
-> Für diese ausgewählten administrativen Aufgaben soll ein Lehrstuhlinformationssystem entworfen und als Web-Applikation mit der Programmiersprache [Elixir](https://elixir-lang.org), dem Web-Framework [Phoenix](https://phoenixframework.org) und dem RDBMS [PostgreSQL](https://postgresql.org) (Version 17+) implementiert werden.
+> Ein Fakultätsinformationssystem unterstützt die Mitarbeiter an den Lehrstühlen der Fakultät sowie die Mitarbeiter in den Zentralbereichen der Fakultät, insbesondere im Dekanat und im Prüfungsamt, bei der Durchführung ihrer Verwaltungsaufgaben.
+> Diese Verwaltungsaufgaben sind ebenso vielfältig und umfassen grob in erster Linie die Aufgabenfelder Lehre und universitäre Selbstverwaltung.
+> Für diese ausgewählten administrativen Aufgaben soll ein Lehrstuhl- und Fakultätsinformationssystem entworfen und als Web-Applikation mit der Programmiersprache [Elixir](https://elixir-lang.org), dem Application-Framework [Ash](https://ash-hq.org), dem Web-Framework [Phoenix](https://phoenixframework.org) und dem RDBMS [PostgreSQL](https://postgresql.org) (Version 17+) implementiert werden.
 > Dabei soll auf bereits vorliegenden Vorarbeiten aufgebaut werden (u.a. sind Teile des Datenbankschemas bereits entworfen und Teile davon bereits als Web-App implementiert). 
 
-> Hinweis: Der Begriff "Lehrstuhlinformationssystem" ist (bislang) in der Fachsprache der Wirtschaftsinformatik nicht differenziert behandelt und kaum konturiert. Campusmanagementsysteme weisen zu Lehrstuhlinformationssysteme u.U. gewisse Überschneidungen auf. Wir gehen von der Vorstellung aus, dass es sich in einer ersten Näherung um ein typisches Informationssystem zur Verwaltung und Auswertung von Daten handelt, die während der Aufgabendurchführung der genannten Aufgaben benötigt werden. 
+> Hinweis: Der Begriff "Lehrstuhlinformationssystem" und der Begriff "Fakultätsinformationssysteme" ist (bislang) in der Fachsprache der Wirtschaftsinformatik nicht differenziert behandelt und kaum konturiert. Sogenannte Campusmanagementsysteme weisen u.U. gewisse Überschneidungen auf. Wir gehen von der Vorstellung aus, dass es sich in einer ersten Näherung um ein typisches Informationssystem zur Verwaltung und Auswertung von Daten handelt, die während der Aufgabendurchführung der genannten Aufgaben benötigt werden. 
 
 ## Aufgabenbeschreibung
 
 Ihre Auseinandersetzung beginnt damit, dass Sie sich die Entwurfs- und Implementierungsziele erschließen und daran anschließend beginnen, die fachlichen Anforderungen an das zu entwickelnde Informationssystem zu erheben, zu verstehen und zu konturieren und dabei iterativ diese fachlichen Anforderungen in nicht-funktionalen und funktionalen Anforderungen an die Software-Entwicklung und an den zu entwickelnden Softwareprototyp zu konkretisieren.
-Sie diskutieren (mit Betreuer) dazu auch Zielkonflikte und andere Beziehungen zwischen Anforderungen und treffen Entwurfsentscheidungen zwischen Entwurfsalternativen, die Sie zuvor herausgearbeitet haben.
+Sie diskutieren (mit Betreuern) dazu auch Zielkonflikte und andere Beziehungen zwischen Anforderungen und treffen gemeinsam Entwurfsentscheidungen zwischen Entwurfsalternativen, die Sie zuvor herausgearbeitet haben.
 Iterativ reflektieren Sie die Softwarearchitektur und die Struktur der Datenhaltung und entwerfen das Datenbankschema, das Sie der Software-Entwicklung zugrunde legen.   
 Iterativ wechseln Sie modellieren, programmieren, dokumentieren, testen und erproben ab - und wählen dabei ein Ihnen sinnvoll erscheinendes Vorgehen, das Sie u.U. an einzelnen (fachlichen) Anforderungen ausrichten (viele agile Vorgehensmodelle schlagen ein solches Vorgehen vor).
 Sie zielen darauf, nach jeder Iteration eine lauffähige Funktionalität (prospektiven Anwendern am Lehrstuhl) demonstrieren zu können. 
@@ -22,7 +24,7 @@ Wir am Lehrstuhl fungieren als "prospektive Anwender" in der Rolle des "Kunden" 
 
 ## Anwendungskontext des zu entwickelnden Lehrstuhlinformationssystems  
 
-Das Lehrstuhlinformationssystem soll für den [Lehrstuhl für BWL, insbes. Entwicklung von Informationssystemen (EvIS)](https://fernuni-hagen.de/evis) an der Fakultät für Wirtschaftswissenschaft der FernUniversität in Hagen entwickelt werden.
+Das Lehrstuhl- und Fakultätsinformationssystem soll für die Fakultät für Wirtschaftswissenschaft der FernUniversität in Hagen und, exemplarisch, für den den [Lehrstuhl für BWL, insbes. Entwicklung von Informationssystemen (EvIS)](https://fernuni-hagen.de/evis) an dieser Fakultät entwickelt werden.
 Die folgende Darstellung des Anwendungskontexts ergänzen Sie durch eine sorgfältige Auswertung der Website des Lehrstuhls und Gespräche mit dem Betreuer der Arbeit:
 
 - Der Lehrstuhl hat mehrere Mitarbeiter in verschiedenen organisatorischen Rollen (Professor,  wissenschaftlicher Mitarbeiter, nicht-wissenschaftlicher Mitarbeiter, Prüfer, Betreuer, ...).
@@ -31,12 +33,12 @@ Bislang wird am Lehrstuhl kein dediziertes Lehrstuhlinformationssystem eingesetz
 Mit dem Lehrstuhlinformationssystem soll zukünftig das Verwalten und Auswerten von Daten über  Abschlussarbeiten, Seminare und Klausuren ermöglicht werden.
 Idealerweise sollen Daten aus dem in der Fakultät eingesetzten web-basierten Informationssystem WebRegIS per Datenexport/Datenimport übernommen werden können. Derzeit ist der strukturierte Datenexport aus WebRegIS jedoch noch nicht möglich und daher wird vorläufig die manuelle Datenübernahme aus WebRegIS anvisiert und das bedeutet, für das Seminar gehen wir von einer manuellen Dateneingabe in das Lehrstuhlinformationssystem aus.
 
-Das Lehrstuhlinformationssystem ist als WebApp zu konzipieren, um Zugriff von innerhalb und außerhalb des FernUniversitäts-Rechnernetzes zu ermöglichen und um sowohl mobile als auch stationäre Endgeräte der Mitarbeiter nutzen zu können.
+Das Informationssystem ist als Web-App zu konzipieren, um Zugriff von innerhalb und außerhalb des FernUniversitäts-Rechnernetzes zu ermöglichen und um sowohl mobile als auch stationäre Endgeräte der Mitarbeiter nutzen zu können.
 Die Benutzungsschnittstelle des Lehrstuhlinformationssystems soll daher sowohl die Nutzung auf mobilen wie auch auf stationären Endgeräten ermöglichen und sich an das jeweilige Endgerät anpassen. 
 
-Das Lehrstuhlinformationssystem soll das Sicherheitsniveau gängiger WebApps einhalten, die Personen-bezogene Daten verarbeiten. 
+Das Informationssystem soll das Sicherheitsniveau gängiger Web-Apps einhalten, die Personen-bezogene Daten verarbeiten. 
 
-## Fachliche Anforderungen
+## Fachliche Anforderungen (Beispiele, Selektion)
 
 ### Fachliche Anforderungen : Seminare
 
@@ -127,35 +129,4 @@ Das Lehrstuhlinformationssystem soll den Mitarbeitern des Lehrstuhls _zumindest_
 
 > Ein Beispiel für eine Weiterentwicklung besteht darin, das Alumni-Management am Lehrstuhl dadurch zu unterstützen, dass (zunächst sehr simple) Auswertungen pro Semester möglich sind, die zeigen, welche und wie viele Studenten in einem Semester an einem Seminar teilgenommen, eine Klausur und/oder eine Abschlussarbeit geschrieben haben. 
 
-Ihre Betreuerin/Ihr Betreuer fungiert als prospektiver Anwender ("Kunden") des Lehrstuhlinformationssystems und beantwortet Ihre Fragen und gibt Feedback.
-
-
-## Einstieg in die begriffliche, methodische, theoretische und praktische Fundierung
-
-- https://en.wikipedia.org/wiki/Use_case:
-
-> "In 1992 he co-authored the book Object-Oriented Software Engineering - A Use Case Driven Approach,[4] which laid the foundation of the OOSE system engineering method and helped to popularize use cases for capturing functional requirements, especially in software development. [...] Since then, many authors have contributed to the development of the technique, notably: Larry Constantine developed in 1995, in the context of usage-centered design, so called "essential use-cases" that aim to describe user intents rather than sequences of actions or scenarios which might constrain or bias the design of user interface;[8] Alistair Cockburn published in 2000 a goal-oriented use case practice based on text narratives and tabular specifications;[9] Kurt Bittner and Ian Spence developed in 2002 advanced practices for analyzing functional requirements with use cases;[10] Dean Leffingwell and Don Widrig proposed to apply use cases to change management and stakeholder communication activities;[11] Gunnar Overgaard proposed in 2004 to extend the principles of design patterns to use cases" (https://en.wikipedia.org/wiki/Use_case, Zugriff am 14.08.2023)
-
-
-- https://en.wikipedia.org/wiki/User_story:
-
-> "In software development and product management, a user story is an informal, natural language description of features of a software system. They are written from the perspective of an end user or user of a system, and may be recorded on index cards, Post-it notes, or digitally in project management software.[1] Depending on the project, user stories may be written by different stakeholders like client, user, manager, or development team. User stories are a type of boundary object. They facilitate sensemaking and communication; and may help software teams document their understanding of the system and its context." (https://en.wikipedia.org/wiki/User_story, Zugriff am 14.08.2023)
-
-- https://en.wikipedia.org/wiki/Pair_programming :
-
-> "Remote pair programming, also known as virtual pair programming or distributed pair programming, is pair programming in which the two programmers are in different locations,[12] working via a collaborative real-time editor, shared desktop, or a remote pair programming IDE plugin."
-
-
-- https://en.wikipedia.org/wiki/Domain-driven_design :
-
-> "Domain-driven design (DDD) is a major software design approach,[1] focusing on modeling software to match a domain according to input from that domain's experts"
-
-> "Command Query Responsibility Segregation (CQRS) is an architectural pattern for separating reading data (a 'query') from writing to data (a 'command'). CQRS derives from Command and Query Separation (CQS), coined by Bertrand Meyer."
-
-
-
-- https://en.wikipedia.org/wiki/Test-driven_development :
-
-> "Test-driven development (TDD) is a software development process relying on software requirements being converted to test cases before software is fully developed, and tracking all software development by repeatedly testing the software against all test cases. This is as opposed to software being developed first and test cases created later."
-
-
+Ihre Betreuer fungieren als prospektiver Anwender des Informationssystems.
