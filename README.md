@@ -331,6 +331,58 @@ a literature study.« Enterprise Modelling and Information Systems Architectures
 > - https://ash-hq.org/media
 
 
+### Themenvorschlag: "Structured Analysis/Design Methods" : Zentrale Konzepte und ihre historische Genese (Prof. Strecker)
+
+> [!Note]
+> **Studienniveau:** B.Sc. / M.Sc.
+>
+> **Sprache:** Deutsch oder Englisch
+>
+> **Forschungsmethodische Fundierung:** Literatur-gestützt, ggf. Interview-basiert mit Zeitzeugen
+>
+> **Aufgabenstellung:** Erste Überlegungen zu Methoden für die konzeptuelle Modellierung lassen sich bereits Anfang des 20. Jahrhunderts verzeichnen (z.B. Gilbreth und Gilbreth 1921).
+> Ab den frühen 1960er Jahren treten Arbeiten zu Vorläufern von Datenflussdiagrammen und verwandten Diagrammarten auf, die schließlich in den 1970er Jahren Methoden münden, die heute unter "Structured Analysis/Design Methods" diskutiert werden (u.a. Yourdon and Constantine 1975; DeMarco 1978; Yourdon 1989).
+> In dieser Arbeit sollen die historische Genese dieser Klasse von Modellierungsmethoden anhand markanter Entwicklungsschritte nachgezeichnet und zentrale Konzepte der Modellierungsmethoden herausgearbeitet werden.
+> Dabei sollen identifizierte Methoden anhand zentraler Konzepte zueinander in Beziehung gesetzt, Gemeinsamkeiten und Unterschiede herausgearbeitet werden.
+>  
+> **Besonders interessant und reizvoll, weil:** Wichtige historische Entwicklungsphase der Praxis und Forschung zu Modellierungsmethoden der konzeptuellen Modellierung, 
+> fördert umfassendes Verständnis für die Entwicklung von Modellierungsmethoden im 20. Jahrhundert
+>
+> **Dozent:** Prof. Dr. Strecker
+>
+> **Status:** Aktuell. Interessenten wenden sich per E-Mail an [Prof. Strecker](mailto:stefan.strecker@fernuni-hagen.de)
+
+
+
+
+### Themenvorschlag: Das Kölner Integrationsmodell : Eine Rekonstruktion (Prof. Strecker)
+
+> [!Note]
+> **Studienniveau:** B.Sc. / M.Sc.
+>
+> **Sprache:** Deutsch oder Englisch
+>
+> **Forschungsmethodische Fundierung:** Literatur-gestützt, ggf. Interview-basiert mit Zeitzeugen
+>
+> **Aufgabenstellung:** Das Kölner Integrationsmodell (KIM) ist das Forschungsergebnis eines von 1965 bis Ende der 1970er Jahre durchgeführten Forschungsprojekts in der Forschungsgruppe von Erwin Grochla an der Universität zu Köln mit dem Ziel, die "Gestaltung integrierter betrieblicher Datenverarbeitungssysteme (\bzw Informationssysteme)" (Grochla et al. 1971, S. VII) zu unterstützen, in dem "eine Grundstruktur industrieller Informationssysteme" (Grochla et al. 1971, S. 31) entwickelt wird.
+> Die Forschungsarbeiten mündeten in grafische Modelle, die Sprachkonzepte der Datenmodellierung und Funktionsmodellierung miteinander verbinden.
+> In dieser Arbeit sollen die Entwicklungen, die zum KIM geführt haben, nachgezeichnet werden und die Forschungsergebnisse, insbesondere die grafischen Modelle, aus heutiger Sicht kritisch analysiert und gewürdigt werden. Dazu sollen mit modernen Modellierungsmethoden ausgewählte Teile des KIM rekonstruiert werden.
+
+```
+Grochla,E. und Bischoff, R. (1974). Integrierte Gesamtmodelle der Datenverarbeitung – Entwicklung undAnwendung des Kölner Integrationsmodells (KIM). München: Hanser.
+Grochla,E. u.a. (1971). Grundmodell zur Gestaltung eines integrierten Datenverarbeitungssystems – Kölner Integrationsmodell(KIM). BIFOA-Arbeitsbericht 6. Köln: Betriebswirtschaftliche Institut für Organisation und Automation (BIFOA), Universität zu Köln.
+Grochla, Erwin(1982). Grundlagenderorganisatorischen Gestaltung. Stuttgart: Poeschel.
+```
+  
+> **Besonders interessant und reizvoll, weil:** Wichtige historische Entwicklungsphase der Praxis und Forschung zu Modellierungsmethoden der konzeptuellen Modellierung, 
+> fördert umfassendes Verständnis für die Entwicklung von Modellierungsmethoden im 20. Jahrhundert
+>
+> **Dozent:** Prof. Dr. Strecker
+>
+> **Status:** Aktuell. Interessenten wenden sich per E-Mail an [Prof. Strecker](mailto:stefan.strecker@fernuni-hagen.de)
+
+
+
 
 
 ### Themenvorschlag: Konzeption, Entwurf und Entwicklung eines Lehrstuhl- und Fakultätsinformationssystems (Prof. Strecker)
