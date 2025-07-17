@@ -8,6 +8,8 @@
 	- Research through development of a web application for managing sports clubs
 - [Forschungsprojekt TOOL](#forschungsprojekt-tool--a-web-browser-based-modeling-tool-and-research-observatory)
 	- A web browser-based modeling tool and research observatory
+- [Forschungsprojekt LISSIE](#forschungsprojekt-lissie)
+	- A web browser-based modeling tool and research observatory
 - [Themenvorschläge in Zusammenhang mit weiteren Forschungsarbeiten](#themenvorschl%C3%A4ge-in-zusammenhang-mit-weiteren-forschungsarbeiten)
 
 
@@ -241,6 +243,60 @@ a literature study.« Enterprise Modelling and Information Systems Architectures
 
 &nbsp;
 
+
+## Forschungsprojekt LISSIE
+
+Weitere Informationen zum Forschungsprojekt: https://www.fernuni-hagen.de/evis/research/projects/LISSIE.shtml (erscheint in Kürze)
+
+### Themenvorschlag: Entwurf und Implementierung der Verwaltung von Studierenden und ihren Abschlussarbeiten für das Lehrstuhlinformationssystem Lissie (Prof. Strecker)
+
+> [!Note]
+> **Studienniveau:** B.Sc. / M.Sc.
+>
+> **Sprache:** Deutsch oder Englisch
+>
+> **Forschungsmethodische Fundierung:** Konstruktionsorientierter Forschungsansatz, Forschung durch Entwicklung
+> 
+> **Aufgabenstellung:** [Eine Skizze des Themas und der Aufgabenstellung](https://github.com/Lehrstuhl-BWL-EvIS/abschlussarbeit-themen/blob/main/lis.md) motiviert dieses Thema und führt in die Hintergründe und den Kontext zu diesem Thema ein.   
+>
+> **Besonders interessant und reizvoll, weil:** Full-Stack-Software-Entwicklung mit State-of-the-Art-Technologie-Stack (Elixir, Phoenix LiveView, PostgreSQL),
+> Erweiterung der eigenen SE-Kompetenzen,
+> prospektive Anwender am Lehrstuhl an Entwicklung beteiligt,
+> Einsatz am Lehrstuhl angestrebt
+>
+> **Dozent:** Prof. Dr. Strecker
+>
+> **Status:** Aktuell. Interessenten wenden sich per E-Mail an [Prof. Strecker](mailto:stefan.strecker@fernuni-hagen.de)
+
+
+### Themenvorschlag: Entwurf und Implementierung von Kernfunktionalitäten für das Lehrstuhlinformationssystem Lissie (Prof. Strecker)
+
+> [!Note]
+> **Studienniveau:** M.Sc.
+>
+> **Sprache:** Deutsch oder Englisch
+>
+> **Forschungsmethodische Fundierung:** Konstruktionsorientierter Forschungsansatz, Forschung durch Entwicklung
+>
+> **Aufgabenstellung:** [Eine Skizze des Themas und der Aufgabenstellung](https://github.com/Lehrstuhl-BWL-EvIS/abschlussarbeit-themen/blob/main/lis.md) motiviert dieses Thema und führt in die Hintergründe und den Kontext zu diesem Thema ein.   
+>
+> **Besonders interessant und reizvoll, weil:** Full-Stack-Software-Entwicklung mit State-of-the-Art-Technologie-Stack (Elixir, Phoenix LiveView, PostgreSQL),
+> Erweiterung der eigenen SE-Kompetenzen,
+> prospektive Anwender am Lehrstuhl an Entwicklung beteiligt,
+> Einsatz am Lehrstuhl angestrebt
+>
+> **Dozent:** Prof. Dr. Strecker
+>
+> **Status:** Aktuell. Interessenten wenden sich per E-Mail an [Prof. Strecker](mailto:stefan.strecker@fernuni-hagen.de)
+
+
+
+
+
+
+
+&nbsp;
+
 ## Themenvorschläge in Zusammenhang mit weiteren Forschungsarbeiten
 
 
@@ -382,28 +438,6 @@ Grochla, Erwin(1982). Grundlagenderorganisatorischen Gestaltung. Stuttgart: Poes
 > **Status:** Aktuell. Interessenten wenden sich per E-Mail an [Prof. Strecker](mailto:stefan.strecker@fernuni-hagen.de)
 
 
-
-
-
-### Themenvorschlag: Konzeption, Entwurf und Entwicklung eines Lehrstuhl- und Fakultätsinformationssystems (Prof. Strecker)
-
-> [!Note]
-> **Studienniveau:** M.Sc.
->
-> **Sprache:** Deutsch oder Englisch
->
-> **Forschungsmethodische Fundierung:** Konstruktionsorientierter Forschungsansatz, Forschung durch Entwicklung
->
-> **Aufgabenstellung:** [Eine Skizze des Themas und der Aufgabenstellung](https://github.com/Lehrstuhl-BWL-EvIS/abschlussarbeit-themen/blob/main/lis.md) motiviert dieses Thema und führt in die Hintergründe und den Kontext zu diesem Thema ein.   
->
-> **Besonders interessant und reizvoll, weil:** Full-Stack-Software-Entwicklung mit topaktuellem Technologie-Stack,
-> Erweiterung der eigenen SE-Kompetenzen,
-> prospektive Anwender am Lehrstuhl an Entwicklung beteiligt,
-> Einsatz am Lehrstuhl angestrebt
->
-> **Dozent:** Prof. Dr. Strecker
->
-> **Status:** Aktuell. Interessenten wenden sich per E-Mail an [Prof. Strecker](mailto:stefan.strecker@fernuni-hagen.de)
 
 
 
