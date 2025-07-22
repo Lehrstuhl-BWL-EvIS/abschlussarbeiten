@@ -1,16 +1,21 @@
 # Konzeption, Entwurf und Entwicklung eines Lehrstuhl- und Fakultätsinformationssystems (Prof. Strecker)
 
-## Ziel: Entwurf und prototypische Implementierung eines Lehrstuhl- und Fakultätsinformationssystems als Web-Applikation mit Elixir, Ash,  Phoenix & PostgreSQL
+## Was ist ein Lehrstuhl- und Fakultätsinformationssystem?
 
-> Ein Lehrstuhlinformationssystem unterstützt die Mitarbeiter eines Lehrstuhls bei der Durchführung ihrer administrativen Aufgaben.
+> Ein Lehrstuhlinformationssystem unterstützt bei der Durchführung administrativer und dispositiver Aufgaben an einem Lehrstuhl einer Fakultät an einer Universität.
 > Die administrativen Aufgaben an einem Lehrstuhl sind vielfältig und umfassen grob die Aufgabenfelder Forschung, Lehre und universitäre Selbstverwaltung.
-> Im Bereich der Lehre zählen zu diesen Aufgaben die Planung, Organisation und Durchführung von Klausuren und Seminaren sowie die Planung, Organisation und Betreuung von Abschlussarbeiten (Bachelorarbeit, Masterarbeit, Diplomarbeit).
-> Ein Fakultätsinformationssystem unterstützt die Mitarbeiter an den Lehrstühlen der Fakultät sowie die Mitarbeiter in den Zentralbereichen der Fakultät, insbesondere im Dekanat und im Prüfungsamt, bei der Durchführung ihrer Verwaltungsaufgaben.
-> Diese Verwaltungsaufgaben sind ebenso vielfältig und umfassen grob in erster Linie die Aufgabenfelder Lehre und universitäre Selbstverwaltung.
-> Für diese ausgewählten administrativen Aufgaben soll ein Lehrstuhl- und Fakultätsinformationssystem entworfen und als Web-Applikation mit der Programmiersprache [Elixir](https://elixir-lang.org), dem Application-Framework [Ash](https://ash-hq.org), dem Web-Framework [Phoenix](https://phoenixframework.org) und dem RDBMS [PostgreSQL](https://postgresql.org) (Version 17+) implementiert werden.
-> Dabei soll auf bereits vorliegenden Vorarbeiten aufgebaut werden (u.a. sind Teile des Datenbankschemas bereits entworfen und Teile davon bereits als Web-App implementiert). 
+> Im Bereich der Lehre zählen zu diesen Aufgaben die Planung, Organisation und Durchführung von Klausuren und Seminaren sowie die Planung, Organisation und Betreuung von Abschlussarbeiten (Bachelorarbeit, Masterarbeit).
+> Ein Fakultätsinformationssystem unterstützt bei der Durchführung administrativer und dispositiver Aufgaben auf Ebene der Fakultät.
+> Diese Aufgaben sind ebenso vielfältig und umfassen grob in erster Linie die Aufgabenfelder Lehre und universitäre Selbstverwaltung durch die Akteure im Zentralbereich der Fakultät (u.a. Prüfungsamt, Dekanat).
+
 
 > Hinweis: Der Begriff "Lehrstuhlinformationssystem" und der Begriff "Fakultätsinformationssysteme" ist (bislang) in der Fachsprache der Wirtschaftsinformatik nicht differenziert behandelt und kaum konturiert. Sogenannte Campusmanagementsysteme weisen u.U. gewisse Überschneidungen auf. Wir gehen von der Vorstellung aus, dass es sich in einer ersten Näherung um ein typisches Informationssystem zur Verwaltung und Auswertung von Daten handelt, die während der Aufgabendurchführung der genannten Aufgaben benötigt werden. 
+
+## Ziel: Entwicklung und Erforschung eines Lehrstuhl- und Fakultätsinformationssystems als Web-Applikation mit Elixir, Phoenix & PostgreSQL
+
+> Für diese ausgewählten administrativen Aufgaben soll ein Lehrstuhl- und Fakultätsinformationssystem entworfen und als Web-Applikation mit der Programmiersprache [Elixir](https://elixir-lang.org), dem Web-Framework [Phoenix](https://phoenixframework.org) und dem RDBMS [PostgreSQL](https://postgresql.org) implementiert werden.
+> Dabei soll auf bereits vorliegenden Vorarbeiten aufgebaut werden (u.a. sind Teile des Datenbankschemas bereits entworfen und Teile davon bereits als Web-App implementiert). 
+
 
 ## Aufgabenbeschreibung
 
