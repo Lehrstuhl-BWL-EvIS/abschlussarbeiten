@@ -9,7 +9,7 @@
 - [Forschungsprojekt TOOL](#forschungsprojekt-tool--a-web-browser-based-modeling-tool-and-research-observatory)
 	- A web browser-based modeling tool and research observatory
 - [Forschungsprojekt LISSIE](#forschungsprojekt-lissie)
-	- Ein web-basiertes Lehrstuhlinformationssystem
+	- Ein web-basiertes Lehrstuhl- und Fakultätsinformationssystem
 - [Themenvorschläge in Zusammenhang mit weiteren Forschungsarbeiten](#themenvorschl%C3%A4ge-in-zusammenhang-mit-weiteren-forschungsarbeiten)
 
 
