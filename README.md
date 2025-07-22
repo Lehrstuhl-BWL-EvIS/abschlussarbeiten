@@ -246,7 +246,9 @@ a literature study.« Enterprise Modelling and Information Systems Architectures
 
 ## Forschungsprojekt LISSIE
 
-Weitere Informationen zum Forschungsprojekt: https://www.fernuni-hagen.de/evis/research/projects/LISSIE.shtml (erscheint in Kürze)
+Weitere Informationen zum Forschungsprojekt: https://www.fernuni-hagen.de/evis/research/projects/LISSIE.shtml 
+
+GitHub-Projektrepository: https://github.com/Lehrstuhl-BWL-EvIS/lissie
 
 ### Themenvorschlag: Entwurf und Implementierung der Verwaltung von Studierenden und ihren Abschlussarbeiten für das Lehrstuhlinformationssystem Lissie (Prof. Strecker)
 
