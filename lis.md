@@ -9,7 +9,7 @@
 > Diese Aufgaben sind ebenso vielfältig und umfassen grob in erster Linie die Aufgabenfelder Lehre und universitäre Selbstverwaltung durch die Akteure im Zentralbereich der Fakultät (u.a. Prüfungsamt, Dekanat).
 
 
-> Hinweis: Der Begriff "Lehrstuhlinformationssystem" und der Begriff "Fakultätsinformationssysteme" ist (bislang) in der Fachsprache der Wirtschaftsinformatik nicht differenziert behandelt und kaum konturiert. Sogenannte Campusmanagementsysteme weisen u.U. gewisse Überschneidungen auf. Wir gehen von der Vorstellung aus, dass es sich in einer ersten Näherung um ein typisches Informationssystem zur Verwaltung und Auswertung von Daten handelt, die während der Aufgabendurchführung der genannten Aufgaben benötigt werden. 
+> Hinweis: Der Begriff "Lehrstuhlinformationssystem" und der Begriff "Fakultätsinformationssystem" ist (bislang) in der Fachsprache der Wirtschaftsinformatik nicht differenziert behandelt und kaum konturiert. Sogenannte Campusmanagementsysteme weisen u.U. gewisse Überschneidungen auf. Wir gehen von der Vorstellung aus, dass es sich in einer ersten Näherung um ein typisches Informationssystem zur Verwaltung und Auswertung von Daten handelt, die während der Aufgabendurchführung der genannten Aufgaben benötigt werden. 
 
 ## Ziel: Entwicklung und Erforschung eines Lehrstuhl- und Fakultätsinformationssystems als Web-Applikation mit Elixir, Phoenix & PostgreSQL
 
