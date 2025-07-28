@@ -250,7 +250,7 @@ Weitere Informationen zum Forschungsprojekt: https://www.fernuni-hagen.de/evis/r
 
 GitHub-Projektrepository: https://github.com/Lehrstuhl-BWL-EvIS/lissie
 
-### Themenvorschlag: Entwurf und Implementierung der Verwaltung von Studierenden und ihren Abschlussarbeiten für das Lehrstuhlinformationssystem Lissie (Prof. Strecker)
+### Themenvorschlag: Lehrstuhl- und Fakultätsinformationssysteme – Entwicklung und Evaluation eines Subsystems für den Prototyp Lissie (Prof. Strecker)
 
 > [!Note]
 > **Studienniveau:** B.Sc. / M.Sc.
@@ -262,6 +262,28 @@ GitHub-Projektrepository: https://github.com/Lehrstuhl-BWL-EvIS/lissie
 > **Aufgabenstellung:** [Eine Skizze des Themas und der Aufgabenstellung](https://github.com/Lehrstuhl-BWL-EvIS/abschlussarbeit-themen/blob/main/lis.md) motiviert dieses Thema und führt in die Hintergründe und den Kontext zu diesem Thema ein.   
 >
 > **Besonders interessant und reizvoll, weil:** Full-Stack-Software-Entwicklung mit State-of-the-Art-Technologie-Stack (Elixir, Phoenix LiveView, PostgreSQL),
+> Erweiterung der eigenen SE-Kompetenzen,
+> prospektive Anwender am Lehrstuhl an Entwicklung beteiligt,
+> Einsatz am Lehrstuhl angestrebt
+>
+> **Dozent:** Prof. Dr. Strecker
+>
+> **Status:** Aktuell. Interessenten wenden sich per E-Mail an [Prof. Strecker](mailto:stefan.strecker@fernuni-hagen.de)
+
+
+
+### Themenvorschlag: Programmieren einer Web-App mit dem Ash Framework – Eine explorative Studie (Prof. Strecker)
+
+> [!Note]
+> **Studienniveau:** B.Sc. / M.Sc.
+>
+> **Sprache:** Deutsch oder Englisch
+>
+> **Forschungsmethodische Fundierung:** Konstruktionsorientierter Forschungsansatz, Forschung durch Entwicklung
+> 
+> **Aufgabenstellung:** In dieser Arbeit soll das [Ash Framework](https://ash-hq.org) für die Entwicklung des web-basierten Lehrstuhl- und Fakultätsinformationssystems Lissie erprobt und evaluiert werden. Das "Ash Framework" verspricht eine höhere Entwicklerproduktivität durch eine Vielzahl von, in nahezu allen Applikationen benötigten Programmierkonzepten und Tooling-Werkzeugen basierend auf der Programmiersprache Elixir.  
+>
+> **Besonders interessant und reizvoll, weil:** Full-Stack-Software-Entwicklung mit State-of-the-Art-Technologie-Stack (Elixir, Ash Framework, Phoenix LiveView, PostgreSQL),
 > Erweiterung der eigenen SE-Kompetenzen,
 > prospektive Anwender am Lehrstuhl an Entwicklung beteiligt,
 > Einsatz am Lehrstuhl angestrebt
