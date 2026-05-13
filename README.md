@@ -323,6 +323,31 @@ GitHub-Projektrepository: https://github.com/Lehrstuhl-BWL-EvIS/lissie
 
 ## Themenvorschläge in Zusammenhang mit weiteren Forschungsarbeiten
 
+### Themenvorschlag: Entwicklung einer Anwendung auf der Basis von LLM im Kontext ärztlicher Praxisverwaltungssysteme (Prof. Strecker)
+
+> [!Note]
+> **Studienniveau:** M.Sc.
+>
+> **Sprache:** Deutsch oder Englisch
+>
+> **Forschungsmethodische Fundierung:** Konstruktionsorientierter Forschungsansatz, Forschung durch Entwicklung
+>
+> **Aufgabenstellung:** 
+> In dieser Arbeit soll ein Softwareprototyp konzipiert, entwickelt und evaluiert werden, der eine spezifische, wiederkehrende Aufgabe der ärztlichen Nutzung eines Praxisverwaltungssystems (PVS) unter Einsatz von LLM in Verbindung mit regelbasierten KI-Ansätzen teilautomatisiert. Anwendungskontext ist bspw. eine Hausarztpraxis. Im Rahmen der Aufgabenstellung ist die lokale Nutzung von LLM zu untersuchen, u.a. zur Bilderkennung, und die Adaption eines frei verfügbaren LLM für diesen spezifischen Anwendungszweck anhand eines Trainingsdatensatzes vorzunehmen. Ergänzend ist zu untersuchen, inwiefern und wie die Ergebnisse des LLM sich mit einem Ansatz der regelbasierten (symbolischen) KI verbinden lassen, um die spezifische, wiederkehrende Aufgabe so zu automatisieren, dass dem behandelnden Arzt zielgerichtet und auf medizinischem Fachwissen basierende Vorschläge unterbreitet werden, die als Eingaben in das PVS zurückgegeben werden.
+  
+> **Besonders interessant und reizvoll, weil:** ...
+>
+> **Dozent:** Prof. Dr. Strecker
+>
+> **Status:** Aktuell. Interessenten wenden sich per E-Mail an [Prof. Strecker](mailto:stefan.strecker@fernuni-hagen.de)
+
+
+
+
+
+
+
+
 
 ### Themenvorschlag: Data Modeling Patterns and Database Design Patterns - A compilation and review on complementary levels of abstraction (Prof. Strecker)
 
